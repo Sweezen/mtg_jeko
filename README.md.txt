@@ -166,9 +166,55 @@ img.emoji {
 			
 <div class="wp-block-cover has-background-dim">
 <img loading="lazy" width="2560" height="928" class="wp-block-cover__image-background wp-image-26" alt="" src="https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-scaled.jpg" data-object-fit="cover" srcset="https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-scaled.jpg 2560w, https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-300x109.jpg 300w, https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-1024x371.jpg 1024w, https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-768x278.jpg 768w, https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-1536x557.jpg 1536w, https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-2048x742.jpg 2048w, https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-1200x435.jpg 1200w, https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-1980x718.jpg 1980w" sizes="(max-width: 2560px) 100vw, 2560px"><div class="wp-block-cover__inner-container">
-<p class="has-text-align-center has-large-font-size">Welcome ! I created this website to share a personal project I&rsquo;ve been working on the past few months. This set has been made for drafting sessions. Enjoy ðŸ™‚ !</p>
+<p class="has-text-align-center has-large-font-size">Welcome ! I created this website to share a personal project I&rsquo;ve been working on the past few months. This set has been made for draft sessions. Enjoy ðŸ™‚ !</p>
 </div>
 </div>
+
+
+
+<p>This set is works around new abilities, each of them have it&rsquo;s specific colors and synergies in the set : </p>
+
+
+
+<ul><li><strong>Curse : Add a Curse counter on target opponent.</strong></li></ul>
+
+
+
+<p>Create a new ressource to use on the right timing in order to enhance the spells you cast and activate specific abilties, with a good strategy, you will take an advantage over your opponents !</p>
+
+
+
+<ul><li><strong>Guard : At the end of your draw step you may guard this creature, it gets -1/+1 and defender until the beginning of your next turn.</strong></li></ul>
+
+
+
+<p>Protect your board, your lifepoint and activate this ability to control the game. Choose carefully when to use this ability as it doesn&rsquo;t allow you to attack !</p>
+
+
+
+<ul><li><strong>Prayer : Lose 2 life then add one mana of that permanentâ€™s color.</strong></li></ul>
+
+
+
+<p class="has-text-align-left">Prayer is certainly a great way to ramp through out the game, use you permanents to get the right amount of mana, but watch out for your lifepoint, as it comes with a painful cost !</p>
+
+
+
+<ul><li><strong>Last Breath : When this creature dies, you may activate this ability.</strong></li></ul>
+
+
+
+<p>Your creatures represent a huge threat to your opponent as they carry an ability that you can choose to activate when they die. It&rsquo;s on you to attack and defend to get the most value out of  them !</p>
+
+
+
+<ul><li>
+<strong>Tribal</strong> : This whole set is composed of a lot of types that you can find in multiple colors : Soldier, Zombie, Wizard, Human, Giant, Horror, Beast. As you draft, think of the synergies you can create through a tribal deck ! Also Changeling creatures will help you to complete your strategy.  </li></ul>
+
+
+
+<ul><li>
+<strong>And more</strong> :  Enchantements, auras, menace, vigilance, scry, all these features get a whole package to create a deck around them. Draft the cards and give them a shot ! You will not be disappointed ðŸ˜‰</li></ul>
 
 
 
