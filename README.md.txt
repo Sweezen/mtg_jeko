@@ -166,7 +166,7 @@ img.emoji {
 			
 <div class="wp-block-cover has-background-dim">
 <img loading="lazy" width="2560" height="928" class="wp-block-cover__image-background wp-image-26" alt="" src="https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-scaled.jpg" data-object-fit="cover" srcset="https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-scaled.jpg 2560w, https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-300x109.jpg 300w, https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-1024x371.jpg 1024w, https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-768x278.jpg 768w, https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-1536x557.jpg 1536w, https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-2048x742.jpg 2048w, https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-1200x435.jpg 1200w, https://sweezen.github.io/wp-content/uploads/2021/12/hue-teo-treeeeeee-1980x718.jpg 1980w" sizes="(max-width: 2560px) 100vw, 2560px"><div class="wp-block-cover__inner-container">
-<p class="has-text-align-center has-large-font-size">Welcome ! I created this website to share a personal project I&rsquo;ve been working on the past few months. This set has been made for draft sessions. Enjoy 🙂 !</p>
+<p class="has-text-align-center has-large-font-size">Welcome ! I created this website to share a personal project I&rsquo;ve been working on the past few months. This set has been made for draft sessions. Enjoy ðŸ™‚ !</p>
 </div>
 </div>
 
@@ -192,7 +192,7 @@ img.emoji {
 
 
 
-<ul><li><strong>Prayer : Lose 2 life then add one mana of that permanent’s color.</strong></li></ul>
+<ul><li><strong>Prayer : Lose 2 life then add one mana of that permanentâ€™s color.</strong></li></ul>
 
 
 
@@ -214,7 +214,7 @@ img.emoji {
 
 
 <ul><li>
-<strong>And a lot more</strong> :  Enchantements, auras, menace, vigilance, scry, all these features get a whole package to create a deck around them. Draft the cards and give them a shot ! You will not be disappointed 😉</li></ul>
+<strong>And a lot more</strong> :  Enchantements, auras, menace, vigilance, scry, all these features get a whole package to create a deck around them. Draft the cards and give them a shot ! You will not be disappointed ðŸ˜‰</li></ul>
 
 
 
@@ -517,7 +517,7 @@ img.emoji {
 
 						<p class="powered-by-wordpress">
 							<a href="https://fr.wordpress.org/">
-								Propulsé par WordPress							</a>
+								PropulsÃ© par WordPress							</a>
 						</p>
 <!-- .powered-by-wordpress -->
 
