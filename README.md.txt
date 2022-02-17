@@ -221,1095 +221,1095 @@ img.emoji {
 
 
 <figure class="wp-block-gallery has-nested-images columns-4 is-cropped">
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3222" src="https://sweezen.github.io/wp-content/uploads/2022/02/1_Resounding-Shout-1.png" alt="" class="wp-image-3222" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/1_Resounding-Shout-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/1_Resounding-Shout-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3497" src="https://sweezen.github.io/wp-content/uploads/2022/02/1_Resounding-Shout-2.png" alt="" class="wp-image-3497" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/1_Resounding-Shout-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/1_Resounding-Shout-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3224" src="https://sweezen.github.io/wp-content/uploads/2022/02/2_Arcane-Spellcaster-1.png" alt="" class="wp-image-3224" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/2_Arcane-Spellcaster-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/2_Arcane-Spellcaster-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3501" src="https://sweezen.github.io/wp-content/uploads/2022/02/2_Arcane-Spellcaster-2.png" alt="" class="wp-image-3501" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/2_Arcane-Spellcaster-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/2_Arcane-Spellcaster-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3223" src="https://sweezen.github.io/wp-content/uploads/2022/02/3_Bird-Tutor-1.png" alt="" class="wp-image-3223" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/3_Bird-Tutor-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/3_Bird-Tutor-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3499" src="https://sweezen.github.io/wp-content/uploads/2022/02/3_Bird-Tutor-2.png" alt="" class="wp-image-3499" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/3_Bird-Tutor-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/3_Bird-Tutor-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3226" src="https://sweezen.github.io/wp-content/uploads/2022/02/4_Blessed-Angel-1.png" alt="" class="wp-image-3226" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/4_Blessed-Angel-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/4_Blessed-Angel-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3498" src="https://sweezen.github.io/wp-content/uploads/2022/02/4_Blessed-Angel-2.png" alt="" class="wp-image-3498" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/4_Blessed-Angel-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/4_Blessed-Angel-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3221" src="https://sweezen.github.io/wp-content/uploads/2022/02/5_Blind-Vision-1.png" alt="" class="wp-image-3221" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/5_Blind-Vision-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/5_Blind-Vision-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3500" src="https://sweezen.github.io/wp-content/uploads/2022/02/5_Blind-Vision-2.png" alt="" class="wp-image-3500" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/5_Blind-Vision-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/5_Blind-Vision-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3225" src="https://sweezen.github.io/wp-content/uploads/2022/02/6_City-Reinforcement-1.png" alt="" class="wp-image-3225" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/6_City-Reinforcement-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/6_City-Reinforcement-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3496" src="https://sweezen.github.io/wp-content/uploads/2022/02/6_City-Reinforcement-2.png" alt="" class="wp-image-3496" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/6_City-Reinforcement-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/6_City-Reinforcement-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3229" src="https://sweezen.github.io/wp-content/uploads/2022/02/7_Desert-Templar-1.png" alt="" class="wp-image-3229" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/7_Desert-Templar-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/7_Desert-Templar-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3502" src="https://sweezen.github.io/wp-content/uploads/2022/02/7_Desert-Templar-2.png" alt="" class="wp-image-3502" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/7_Desert-Templar-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/7_Desert-Templar-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3227" src="https://sweezen.github.io/wp-content/uploads/2022/02/8_Diving-Strike-1.png" alt="" class="wp-image-3227" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/8_Diving-Strike-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/8_Diving-Strike-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3503" src="https://sweezen.github.io/wp-content/uploads/2022/02/8_Diving-Strike-2.png" alt="" class="wp-image-3503" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/8_Diving-Strike-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/8_Diving-Strike-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3228" src="https://sweezen.github.io/wp-content/uploads/2022/02/9_Dragon-Rider-1.png" alt="" class="wp-image-3228" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/9_Dragon-Rider-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/9_Dragon-Rider-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3507" src="https://sweezen.github.io/wp-content/uploads/2022/02/9_Dragon-Rider-2.png" alt="" class="wp-image-3507" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/9_Dragon-Rider-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/9_Dragon-Rider-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3231" src="https://sweezen.github.io/wp-content/uploads/2022/02/10_Eternal-Lifeguard-1.png" alt="" class="wp-image-3231" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/10_Eternal-Lifeguard-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/10_Eternal-Lifeguard-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3505" src="https://sweezen.github.io/wp-content/uploads/2022/02/10_Eternal-Lifeguard-2.png" alt="" class="wp-image-3505" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/10_Eternal-Lifeguard-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/10_Eternal-Lifeguard-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3232" src="https://sweezen.github.io/wp-content/uploads/2022/02/11_Faith-Prophetesse-1.png" alt="" class="wp-image-3232" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/11_Faith-Prophetesse-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/11_Faith-Prophetesse-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3504" src="https://sweezen.github.io/wp-content/uploads/2022/02/11_Faith-Prophetesse-2.png" alt="" class="wp-image-3504" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/11_Faith-Prophetesse-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/11_Faith-Prophetesse-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3230" src="https://sweezen.github.io/wp-content/uploads/2022/02/12_Fight-Back-1.png" alt="" class="wp-image-3230" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/12_Fight-Back-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/12_Fight-Back-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3506" src="https://sweezen.github.io/wp-content/uploads/2022/02/12_Fight-Back-2.png" alt="" class="wp-image-3506" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/12_Fight-Back-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/12_Fight-Back-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3233" src="https://sweezen.github.io/wp-content/uploads/2022/02/13_Fine-Duelist-1.png" alt="" class="wp-image-3233" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/13_Fine-Duelist-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/13_Fine-Duelist-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3509" src="https://sweezen.github.io/wp-content/uploads/2022/02/13_Fine-Duelist-2.png" alt="" class="wp-image-3509" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/13_Fine-Duelist-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/13_Fine-Duelist-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3234" src="https://sweezen.github.io/wp-content/uploads/2022/02/14_Flying-Squadrons-1.png" alt="" class="wp-image-3234" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/14_Flying-Squadrons-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/14_Flying-Squadrons-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3508" src="https://sweezen.github.io/wp-content/uploads/2022/02/14_Flying-Squadrons-2.png" alt="" class="wp-image-3508" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/14_Flying-Squadrons-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/14_Flying-Squadrons-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3235" src="https://sweezen.github.io/wp-content/uploads/2022/02/15_Helmet-of-Truce-1.png" alt="" class="wp-image-3235" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/15_Helmet-of-Truce-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/15_Helmet-of-Truce-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3510" src="https://sweezen.github.io/wp-content/uploads/2022/02/15_Helmet-of-Truce-2.png" alt="" class="wp-image-3510" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/15_Helmet-of-Truce-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/15_Helmet-of-Truce-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3236" src="https://sweezen.github.io/wp-content/uploads/2022/02/16_Honorable-Knight-1.png" alt="" class="wp-image-3236" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/16_Honorable-Knight-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/16_Honorable-Knight-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3513" src="https://sweezen.github.io/wp-content/uploads/2022/02/16_Honorable-Knight-2.png" alt="" class="wp-image-3513" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/16_Honorable-Knight-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/16_Honorable-Knight-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3238" src="https://sweezen.github.io/wp-content/uploads/2022/02/17_Justice-Retribution-1.png" alt="" class="wp-image-3238" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/17_Justice-Retribution-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/17_Justice-Retribution-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3511" src="https://sweezen.github.io/wp-content/uploads/2022/02/17_Justice-Retribution-2.png" alt="" class="wp-image-3511" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/17_Justice-Retribution-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/17_Justice-Retribution-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3237" src="https://sweezen.github.io/wp-content/uploads/2022/02/18_Kala-Aerial-Fighter-1.png" alt="" class="wp-image-3237" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/18_Kala-Aerial-Fighter-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/18_Kala-Aerial-Fighter-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3512" src="https://sweezen.github.io/wp-content/uploads/2022/02/18_Kala-Aerial-Fighter-2.png" alt="" class="wp-image-3512" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/18_Kala-Aerial-Fighter-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/18_Kala-Aerial-Fighter-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3240" src="https://sweezen.github.io/wp-content/uploads/2022/02/19_Keodross-the-Sky-Guardian-Dragon-1.png" alt="" class="wp-image-3240" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/19_Keodross-the-Sky-Guardian-Dragon-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/19_Keodross-the-Sky-Guardian-Dragon-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3514" src="https://sweezen.github.io/wp-content/uploads/2022/02/19_Keodross-the-Sky-Guardian.png" alt="" class="wp-image-3514" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/19_Keodross-the-Sky-Guardian.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/19_Keodross-the-Sky-Guardian-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3239" src="https://sweezen.github.io/wp-content/uploads/2022/02/20_Knight-of-the-Light-Army-1-1.png" alt="" class="wp-image-3239" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/20_Knight-of-the-Light-Army-1-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/20_Knight-of-the-Light-Army-1-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3518" src="https://sweezen.github.io/wp-content/uploads/2022/02/20_Knight-of-the-Light-Army-1-2.png" alt="" class="wp-image-3518" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/20_Knight-of-the-Light-Army-1-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/20_Knight-of-the-Light-Army-1-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3241" src="https://sweezen.github.io/wp-content/uploads/2022/02/21_Leader-of-the-Charge-1.png" alt="" class="wp-image-3241" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/21_Leader-of-the-Charge-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/21_Leader-of-the-Charge-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3517" src="https://sweezen.github.io/wp-content/uploads/2022/02/21_Leader-of-the-Charge-2.png" alt="" class="wp-image-3517" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/21_Leader-of-the-Charge-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/21_Leader-of-the-Charge-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3242" src="https://sweezen.github.io/wp-content/uploads/2022/02/22_Light-City-of-Drenvill-1.png" alt="" class="wp-image-3242" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/22_Light-City-of-Drenvill-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/22_Light-City-of-Drenvill-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3515" src="https://sweezen.github.io/wp-content/uploads/2022/02/22_Light-City-of-Drenvill-2.png" alt="" class="wp-image-3515" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/22_Light-City-of-Drenvill-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/22_Light-City-of-Drenvill-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3244" src="https://sweezen.github.io/wp-content/uploads/2022/02/23_Light-Dragon-1.png" alt="" class="wp-image-3244" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/23_Light-Dragon-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/23_Light-Dragon-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3516" src="https://sweezen.github.io/wp-content/uploads/2022/02/23_Light-Dragon-2.png" alt="" class="wp-image-3516" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/23_Light-Dragon-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/23_Light-Dragon-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3243" src="https://sweezen.github.io/wp-content/uploads/2022/02/24_Micro-Faery-1.png" alt="" class="wp-image-3243" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/24_Micro-Faery-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/24_Micro-Faery-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3519" src="https://sweezen.github.io/wp-content/uploads/2022/02/24_Micro-Faery-2.png" alt="" class="wp-image-3519" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/24_Micro-Faery-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/24_Micro-Faery-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3247" src="https://sweezen.github.io/wp-content/uploads/2022/02/25_Moving-Mountain-1.png" alt="" class="wp-image-3247" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/25_Moving-Mountain-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/25_Moving-Mountain-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3520" src="https://sweezen.github.io/wp-content/uploads/2022/02/25_Moving-Mountain-2.png" alt="" class="wp-image-3520" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/25_Moving-Mountain-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/25_Moving-Mountain-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3245" src="https://sweezen.github.io/wp-content/uploads/2022/02/26_Quick-Attack-1.png" alt="" class="wp-image-3245" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/26_Quick-Attack-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/26_Quick-Attack-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3521" src="https://sweezen.github.io/wp-content/uploads/2022/02/26_Quick-Attack-2.png" alt="" class="wp-image-3521" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/26_Quick-Attack-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/26_Quick-Attack-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3246" src="https://sweezen.github.io/wp-content/uploads/2022/02/27_Rally-the-Troops-1.png" alt="" class="wp-image-3246" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/27_Rally-the-Troops-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/27_Rally-the-Troops-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3522" src="https://sweezen.github.io/wp-content/uploads/2022/02/27_Rally-the-Troops-2.png" alt="" class="wp-image-3522" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/27_Rally-the-Troops-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/27_Rally-the-Troops-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3248" src="https://sweezen.github.io/wp-content/uploads/2022/02/28_Release-the-Hounds-1.png" alt="" class="wp-image-3248" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/28_Release-the-Hounds-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/28_Release-the-Hounds-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3525" src="https://sweezen.github.io/wp-content/uploads/2022/02/28_Release-the-Hounds-2.png" alt="" class="wp-image-3525" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/28_Release-the-Hounds-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/28_Release-the-Hounds-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3249" src="https://sweezen.github.io/wp-content/uploads/2022/02/29_Repulse-1.png" alt="" class="wp-image-3249" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/29_Repulse-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/29_Repulse-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3524" src="https://sweezen.github.io/wp-content/uploads/2022/02/29_Repulse-2.png" alt="" class="wp-image-3524" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/29_Repulse-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/29_Repulse-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3250" src="https://sweezen.github.io/wp-content/uploads/2022/02/30_Timeworn-Relic-1.png" alt="" class="wp-image-3250" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/30_Timeworn-Relic-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/30_Timeworn-Relic-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3523" src="https://sweezen.github.io/wp-content/uploads/2022/02/30_Timeworn-Relic-2.png" alt="" class="wp-image-3523" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/30_Timeworn-Relic-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/30_Timeworn-Relic-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3251" src="https://sweezen.github.io/wp-content/uploads/2022/02/31_Volley-of-Arrows-1.png" alt="" class="wp-image-3251" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/31_Volley-of-Arrows-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/31_Volley-of-Arrows-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3527" src="https://sweezen.github.io/wp-content/uploads/2022/02/31_Volley-of-Arrows-2.png" alt="" class="wp-image-3527" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/31_Volley-of-Arrows-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/31_Volley-of-Arrows-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3253" src="https://sweezen.github.io/wp-content/uploads/2022/02/32_Yode-the-War-Commander-1.png" alt="" class="wp-image-3253" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/32_Yode-the-War-Commander-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/32_Yode-the-War-Commander-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3526" src="https://sweezen.github.io/wp-content/uploads/2022/02/32_Yode-the-War-Commander-2.png" alt="" class="wp-image-3526" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/32_Yode-the-War-Commander-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/32_Yode-the-War-Commander-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3252" src="https://sweezen.github.io/wp-content/uploads/2022/02/33_Anonymous-Traveler-1.png" alt="" class="wp-image-3252" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/33_Anonymous-Traveler-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/33_Anonymous-Traveler-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3528" src="https://sweezen.github.io/wp-content/uploads/2022/02/33_Anonymous-Traveler-2.png" alt="" class="wp-image-3528" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/33_Anonymous-Traveler-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/33_Anonymous-Traveler-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3254" src="https://sweezen.github.io/wp-content/uploads/2022/02/34_Colonel-of-the-Fleeing-Troops-1.png" alt="" class="wp-image-3254" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/34_Colonel-of-the-Fleeing-Troops-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/34_Colonel-of-the-Fleeing-Troops-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3529" src="https://sweezen.github.io/wp-content/uploads/2022/02/34_Colonel-of-the-Fleeing-Troops-2.png" alt="" class="wp-image-3529" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/34_Colonel-of-the-Fleeing-Troops-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/34_Colonel-of-the-Fleeing-Troops-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3255" src="https://sweezen.github.io/wp-content/uploads/2022/02/35_Deemon-Wizard-Veteran-1.png" alt="" class="wp-image-3255" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/35_Deemon-Wizard-Veteran-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/35_Deemon-Wizard-Veteran-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3530" src="https://sweezen.github.io/wp-content/uploads/2022/02/35_Deemon-Wizard-Veteran-2.png" alt="" class="wp-image-3530" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/35_Deemon-Wizard-Veteran-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/35_Deemon-Wizard-Veteran-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3256" src="https://sweezen.github.io/wp-content/uploads/2022/02/36_Disguised-Giant-1.png" alt="" class="wp-image-3256" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/36_Disguised-Giant-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/36_Disguised-Giant-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3531" src="https://sweezen.github.io/wp-content/uploads/2022/02/36_Disguised-Giant-2.png" alt="" class="wp-image-3531" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/36_Disguised-Giant-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/36_Disguised-Giant-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3257" src="https://sweezen.github.io/wp-content/uploads/2022/02/37_Drowned-in-the-River-1.png" alt="" class="wp-image-3257" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/37_Drowned-in-the-River-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/37_Drowned-in-the-River-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3532" src="https://sweezen.github.io/wp-content/uploads/2022/02/37_Drowned-in-the-River-2.png" alt="" class="wp-image-3532" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/37_Drowned-in-the-River-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/37_Drowned-in-the-River-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3258" src="https://sweezen.github.io/wp-content/uploads/2022/02/38_Farseer-Veteran-1.png" alt="" class="wp-image-3258" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/38_Farseer-Veteran-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/38_Farseer-Veteran-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3533" src="https://sweezen.github.io/wp-content/uploads/2022/02/38_Farseer-Veteran-2.png" alt="" class="wp-image-3533" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/38_Farseer-Veteran-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/38_Farseer-Veteran-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3259" src="https://sweezen.github.io/wp-content/uploads/2022/02/39_Galleon-Sinker-1.png" alt="" class="wp-image-3259" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/39_Galleon-Sinker-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/39_Galleon-Sinker-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3534" src="https://sweezen.github.io/wp-content/uploads/2022/02/39_Galleon-Sinker-2.png" alt="" class="wp-image-3534" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/39_Galleon-Sinker-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/39_Galleon-Sinker-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3260" src="https://sweezen.github.io/wp-content/uploads/2022/02/40_Guardian-of-the-City-1.png" alt="" class="wp-image-3260" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/40_Guardian-of-the-City-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/40_Guardian-of-the-City-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3536" src="https://sweezen.github.io/wp-content/uploads/2022/02/40_Guardian-of-the-City-2.png" alt="" class="wp-image-3536" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/40_Guardian-of-the-City-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/40_Guardian-of-the-City-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3262" src="https://sweezen.github.io/wp-content/uploads/2022/02/41_Guardians-Secret-1.png" alt="" class="wp-image-3262" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/41_Guardians-Secret-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/41_Guardians-Secret-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3535" src="https://sweezen.github.io/wp-content/uploads/2022/02/41_Guardians-Secret-2.png" alt="" class="wp-image-3535" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/41_Guardians-Secret-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/41_Guardians-Secret-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3261" src="https://sweezen.github.io/wp-content/uploads/2022/02/42_Hold-the-Front-Line-1.png" alt="" class="wp-image-3261" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/42_Hold-the-Front-Line-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/42_Hold-the-Front-Line-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3537" src="https://sweezen.github.io/wp-content/uploads/2022/02/42_Hold-the-Front-Line-2.png" alt="" class="wp-image-3537" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/42_Hold-the-Front-Line-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/42_Hold-the-Front-Line-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3264" src="https://sweezen.github.io/wp-content/uploads/2022/02/43_Horror-From-the-Deep-1.png" alt="" class="wp-image-3264" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/43_Horror-From-the-Deep-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/43_Horror-From-the-Deep-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3538" src="https://sweezen.github.io/wp-content/uploads/2022/02/43_Horror-From-the-Deep-2.png" alt="" class="wp-image-3538" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/43_Horror-From-the-Deep-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/43_Horror-From-the-Deep-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3265" src="https://sweezen.github.io/wp-content/uploads/2022/02/44_Inevitable-Possession-1.png" alt="" class="wp-image-3265" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/44_Inevitable-Possession-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/44_Inevitable-Possession-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3539" src="https://sweezen.github.io/wp-content/uploads/2022/02/44_Inevitable-Possession-2.png" alt="" class="wp-image-3539" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/44_Inevitable-Possession-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/44_Inevitable-Possession-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3263" src="https://sweezen.github.io/wp-content/uploads/2022/02/45_The-Kept-Secret-1.png" alt="" class="wp-image-3263" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/45_The-Kept-Secret-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/45_The-Kept-Secret-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3540" src="https://sweezen.github.io/wp-content/uploads/2022/02/45_The-Kept-Secret-2.png" alt="" class="wp-image-3540" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/45_The-Kept-Secret-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/45_The-Kept-Secret-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3266" src="https://sweezen.github.io/wp-content/uploads/2022/02/46_Kind-Hearted-Drake-1.png" alt="" class="wp-image-3266" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/46_Kind-Hearted-Drake-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/46_Kind-Hearted-Drake-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3543" src="https://sweezen.github.io/wp-content/uploads/2022/02/46_Kind-Hearted-Drake-2.png" alt="" class="wp-image-3543" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/46_Kind-Hearted-Drake-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/46_Kind-Hearted-Drake-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3267" src="https://sweezen.github.io/wp-content/uploads/2022/02/47_Lake-keeper-1.png" alt="" class="wp-image-3267" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/47_Lake-keeper-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/47_Lake-keeper-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3542" src="https://sweezen.github.io/wp-content/uploads/2022/02/47_Lake-keeper-2.png" alt="" class="wp-image-3542" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/47_Lake-keeper-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/47_Lake-keeper-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3268" src="https://sweezen.github.io/wp-content/uploads/2022/02/48_Land-Scout-1.png" alt="" class="wp-image-3268" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/48_Land-Scout-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/48_Land-Scout-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3541" src="https://sweezen.github.io/wp-content/uploads/2022/02/48_Land-Scout-2.png" alt="" class="wp-image-3541" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/48_Land-Scout-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/48_Land-Scout-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3272" src="https://sweezen.github.io/wp-content/uploads/2022/02/49_Mana-Well-1.png" alt="" class="wp-image-3272" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/49_Mana-Well-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/49_Mana-Well-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3544" src="https://sweezen.github.io/wp-content/uploads/2022/02/49_Mana-Well-2.png" alt="" class="wp-image-3544" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/49_Mana-Well-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/49_Mana-Well-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3269" src="https://sweezen.github.io/wp-content/uploads/2022/02/50_Misty-Valley-Keeper-1.png" alt="" class="wp-image-3269" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/50_Misty-Valley-Keeper-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/50_Misty-Valley-Keeper-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3545" src="https://sweezen.github.io/wp-content/uploads/2022/02/50_Misty-Valley-Keeper-2.png" alt="" class="wp-image-3545" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/50_Misty-Valley-Keeper-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/50_Misty-Valley-Keeper-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3270" src="https://sweezen.github.io/wp-content/uploads/2022/02/51_Order-the-Charge-1.png" alt="" class="wp-image-3270" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/51_Order-the-Charge-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/51_Order-the-Charge-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3546" src="https://sweezen.github.io/wp-content/uploads/2022/02/51_Order-the-Charge-2.png" alt="" class="wp-image-3546" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/51_Order-the-Charge-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/51_Order-the-Charge-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3271" src="https://sweezen.github.io/wp-content/uploads/2022/02/52_Prevent-1.png" alt="" class="wp-image-3271" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/52_Prevent-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/52_Prevent-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3548" src="https://sweezen.github.io/wp-content/uploads/2022/02/52_Prevent-2.png" alt="" class="wp-image-3548" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/52_Prevent-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/52_Prevent-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3273" src="https://sweezen.github.io/wp-content/uploads/2022/02/53_Raise-the-Guard-1.png" alt="" class="wp-image-3273" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/53_Raise-the-Guard-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/53_Raise-the-Guard-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3547" src="https://sweezen.github.io/wp-content/uploads/2022/02/53_Raise-the-Guard-2.png" alt="" class="wp-image-3547" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/53_Raise-the-Guard-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/53_Raise-the-Guard-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3274" src="https://sweezen.github.io/wp-content/uploads/2022/02/54_Scare-with-Thunder-1.png" alt="" class="wp-image-3274" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/54_Scare-with-Thunder-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/54_Scare-with-Thunder-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3549" src="https://sweezen.github.io/wp-content/uploads/2022/02/54_Scare-with-Thunder-2.png" alt="" class="wp-image-3549" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/54_Scare-with-Thunder-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/54_Scare-with-Thunder-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3275" src="https://sweezen.github.io/wp-content/uploads/2022/02/55_Sea-Watcher-1.png" alt="" class="wp-image-3275" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/55_Sea-Watcher-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/55_Sea-Watcher-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3550" src="https://sweezen.github.io/wp-content/uploads/2022/02/55_Sea-Watcher-2.png" alt="" class="wp-image-3550" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/55_Sea-Watcher-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/55_Sea-Watcher-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3278" src="https://sweezen.github.io/wp-content/uploads/2022/02/56_Self-Ruled-Hermit-1.png" alt="" class="wp-image-3278" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/56_Self-Ruled-Hermit-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/56_Self-Ruled-Hermit-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3552" src="https://sweezen.github.io/wp-content/uploads/2022/02/56_Self-Ruled-Hermit-2.png" alt="" class="wp-image-3552" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/56_Self-Ruled-Hermit-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/56_Self-Ruled-Hermit-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3277" src="https://sweezen.github.io/wp-content/uploads/2022/02/57_Snapcaster-Apprentice-1.png" alt="" class="wp-image-3277" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/57_Snapcaster-Apprentice-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/57_Snapcaster-Apprentice-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3551" src="https://sweezen.github.io/wp-content/uploads/2022/02/57_Snapcaster-Apprentice-2.png" alt="" class="wp-image-3551" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/57_Snapcaster-Apprentice-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/57_Snapcaster-Apprentice-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3276" src="https://sweezen.github.io/wp-content/uploads/2022/02/58_Sneak-for-Secrets-1.png" alt="" class="wp-image-3276" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/58_Sneak-for-Secrets-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/58_Sneak-for-Secrets-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3553" src="https://sweezen.github.io/wp-content/uploads/2022/02/58_Sneak-for-Secrets-2.png" alt="" class="wp-image-3553" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/58_Sneak-for-Secrets-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/58_Sneak-for-Secrets-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3279" src="https://sweezen.github.io/wp-content/uploads/2022/02/59_Temporize-1.png" alt="" class="wp-image-3279" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/59_Temporize-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/59_Temporize-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3554" src="https://sweezen.github.io/wp-content/uploads/2022/02/59_Temporize-2.png" alt="" class="wp-image-3554" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/59_Temporize-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/59_Temporize-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3280" src="https://sweezen.github.io/wp-content/uploads/2022/02/60_Thunder-Crow-1.png" alt="" class="wp-image-3280" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/60_Thunder-Crow-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/60_Thunder-Crow-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3555" src="https://sweezen.github.io/wp-content/uploads/2022/02/60_Thunder-Crow-2.png" alt="" class="wp-image-3555" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/60_Thunder-Crow-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/60_Thunder-Crow-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3282" src="https://sweezen.github.io/wp-content/uploads/2022/02/61_Veteran-Sailor-1-1.png" alt="" class="wp-image-3282" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/61_Veteran-Sailor-1-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/61_Veteran-Sailor-1-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3556" src="https://sweezen.github.io/wp-content/uploads/2022/02/61_Veteran-Sailor-1-2.png" alt="" class="wp-image-3556" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/61_Veteran-Sailor-1-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/61_Veteran-Sailor-1-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3284" src="https://sweezen.github.io/wp-content/uploads/2022/02/62_Vulnir-the-Merchant-City-1-1.png" alt="" class="wp-image-3284" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/62_Vulnir-the-Merchant-City-1-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/62_Vulnir-the-Merchant-City-1-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3558" src="https://sweezen.github.io/wp-content/uploads/2022/02/62_Vulnir-the-Merchant-City-1-2.png" alt="" class="wp-image-3558" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/62_Vulnir-the-Merchant-City-1-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/62_Vulnir-the-Merchant-City-1-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3281" src="https://sweezen.github.io/wp-content/uploads/2022/02/63_Wenlis-the-Worshipper-Wizard.png" alt="" class="wp-image-3281" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/63_Wenlis-the-Worshipper-Wizard.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/63_Wenlis-the-Worshipper-Wizard-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3557" src="https://sweezen.github.io/wp-content/uploads/2022/02/63_Wenlis-the-Worshipper-Wizard-1.png" alt="" class="wp-image-3557" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/63_Wenlis-the-Worshipper-Wizard-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/63_Wenlis-the-Worshipper-Wizard-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3283" src="https://sweezen.github.io/wp-content/uploads/2022/02/64_Wizard-Water-Walker.png" alt="" class="wp-image-3283" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/64_Wizard-Water-Walker.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/64_Wizard-Water-Walker-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3559" src="https://sweezen.github.io/wp-content/uploads/2022/02/64_Wizard-Water-Walker-1.png" alt="" class="wp-image-3559" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/64_Wizard-Water-Walker-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/64_Wizard-Water-Walker-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3285" src="https://sweezen.github.io/wp-content/uploads/2022/02/65_Army-Rejunevator-1.png" alt="" class="wp-image-3285" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/65_Army-Rejunevator-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/65_Army-Rejunevator-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3560" src="https://sweezen.github.io/wp-content/uploads/2022/02/65_Army-Rejunevator-2.png" alt="" class="wp-image-3560" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/65_Army-Rejunevator-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/65_Army-Rejunevator-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3286" src="https://sweezen.github.io/wp-content/uploads/2022/02/66_Bad-Omen-1.png" alt="" class="wp-image-3286" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/66_Bad-Omen-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/66_Bad-Omen-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3561" src="https://sweezen.github.io/wp-content/uploads/2022/02/66_Bad-Omen-2.png" alt="" class="wp-image-3561" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/66_Bad-Omen-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/66_Bad-Omen-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3287" src="https://sweezen.github.io/wp-content/uploads/2022/02/67_Betrayer-of-the-Kingdom-1.png" alt="" class="wp-image-3287" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/67_Betrayer-of-the-Kingdom-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/67_Betrayer-of-the-Kingdom-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3562" src="https://sweezen.github.io/wp-content/uploads/2022/02/67_Betrayer-of-the-Kingdom-2.png" alt="" class="wp-image-3562" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/67_Betrayer-of-the-Kingdom-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/67_Betrayer-of-the-Kingdom-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3290" src="https://sweezen.github.io/wp-content/uploads/2022/02/68_Blood-Transfuser-1.png" alt="" class="wp-image-3290" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/68_Blood-Transfuser-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/68_Blood-Transfuser-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3563" src="https://sweezen.github.io/wp-content/uploads/2022/02/68_Blood-Transfuser-2.png" alt="" class="wp-image-3563" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/68_Blood-Transfuser-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/68_Blood-Transfuser-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3288" src="https://sweezen.github.io/wp-content/uploads/2022/02/69_Casual-Zombie-1.png" alt="" class="wp-image-3288" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/69_Casual-Zombie-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/69_Casual-Zombie-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3564" src="https://sweezen.github.io/wp-content/uploads/2022/02/69_Casual-Zombie-2.png" alt="" class="wp-image-3564" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/69_Casual-Zombie-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/69_Casual-Zombie-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3289" src="https://sweezen.github.io/wp-content/uploads/2022/02/70_Devour-Your-Soul-1.png" alt="" class="wp-image-3289" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/70_Devour-Your-Soul-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/70_Devour-Your-Soul-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3565" src="https://sweezen.github.io/wp-content/uploads/2022/02/70_Devour-Your-Soul-2.png" alt="" class="wp-image-3565" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/70_Devour-Your-Soul-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/70_Devour-Your-Soul-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3291" src="https://sweezen.github.io/wp-content/uploads/2022/02/71_Dreadful-Rider-1.png" alt="" class="wp-image-3291" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/71_Dreadful-Rider-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/71_Dreadful-Rider-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3567" src="https://sweezen.github.io/wp-content/uploads/2022/02/71_Dreadful-Rider-2.png" alt="" class="wp-image-3567" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/71_Dreadful-Rider-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/71_Dreadful-Rider-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3292" src="https://sweezen.github.io/wp-content/uploads/2022/02/72_Dren-the-Fallen-General-1.png" alt="" class="wp-image-3292" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/72_Dren-the-Fallen-General-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/72_Dren-the-Fallen-General-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3566" src="https://sweezen.github.io/wp-content/uploads/2022/02/72_Dren-the-Fallen-General-2.png" alt="" class="wp-image-3566" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/72_Dren-the-Fallen-General-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/72_Dren-the-Fallen-General-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3293" src="https://sweezen.github.io/wp-content/uploads/2022/02/73_Erase-Your-Soul-1.png" alt="" class="wp-image-3293" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/73_Erase-Your-Soul-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/73_Erase-Your-Soul-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3568" src="https://sweezen.github.io/wp-content/uploads/2022/02/73_Erase-Your-Soul-2.png" alt="" class="wp-image-3568" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/73_Erase-Your-Soul-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/73_Erase-Your-Soul-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3294" src="https://sweezen.github.io/wp-content/uploads/2022/02/74_Esrall-the-Mind-Manipulator-1.png" alt="" class="wp-image-3294" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/74_Esrall-the-Mind-Manipulator-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/74_Esrall-the-Mind-Manipulator-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3569" src="https://sweezen.github.io/wp-content/uploads/2022/02/74_Esrall-the-Mind-Manipulator-2.png" alt="" class="wp-image-3569" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/74_Esrall-the-Mind-Manipulator-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/74_Esrall-the-Mind-Manipulator-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3295" src="https://sweezen.github.io/wp-content/uploads/2022/02/75_Forlak-the-Dark-Tower-1.png" alt="" class="wp-image-3295" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/75_Forlak-the-Dark-Tower-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/75_Forlak-the-Dark-Tower-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3570" src="https://sweezen.github.io/wp-content/uploads/2022/02/75_Forlak-the-Dark-Tower-2.png" alt="" class="wp-image-3570" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/75_Forlak-the-Dark-Tower-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/75_Forlak-the-Dark-Tower-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3296" src="https://sweezen.github.io/wp-content/uploads/2022/02/76_Gloaming-Blast-1.png" alt="" class="wp-image-3296" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/76_Gloaming-Blast-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/76_Gloaming-Blast-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3571" src="https://sweezen.github.io/wp-content/uploads/2022/02/76_Gloaming-Blast-2.png" alt="" class="wp-image-3571" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/76_Gloaming-Blast-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/76_Gloaming-Blast-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3297" src="https://sweezen.github.io/wp-content/uploads/2022/02/77_Hippo-Fighter-1.png" alt="" class="wp-image-3297" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/77_Hippo-Fighter-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/77_Hippo-Fighter-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3572" src="https://sweezen.github.io/wp-content/uploads/2022/02/77_Hippo-Fighter-2.png" alt="" class="wp-image-3572" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/77_Hippo-Fighter-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/77_Hippo-Fighter-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3298" src="https://sweezen.github.io/wp-content/uploads/2022/02/78_Hollow-Shaman-1.png" alt="" class="wp-image-3298" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/78_Hollow-Shaman-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/78_Hollow-Shaman-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3573" src="https://sweezen.github.io/wp-content/uploads/2022/02/78_Hollow-Shaman-2.png" alt="" class="wp-image-3573" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/78_Hollow-Shaman-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/78_Hollow-Shaman-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3300" src="https://sweezen.github.io/wp-content/uploads/2022/02/79_Leader-of-the-Death-March-1.png" alt="" class="wp-image-3300" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/79_Leader-of-the-Death-March-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/79_Leader-of-the-Death-March-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3574" src="https://sweezen.github.io/wp-content/uploads/2022/02/79_Leader-of-the-Death-March-2.png" alt="" class="wp-image-3574" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/79_Leader-of-the-Death-March-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/79_Leader-of-the-Death-March-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3299" src="https://sweezen.github.io/wp-content/uploads/2022/02/80_Life-Decision-1.png" alt="" class="wp-image-3299" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/80_Life-Decision-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/80_Life-Decision-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3575" src="https://sweezen.github.io/wp-content/uploads/2022/02/80_Life-Decision-2.png" alt="" class="wp-image-3575" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/80_Life-Decision-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/80_Life-Decision-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3302" src="https://sweezen.github.io/wp-content/uploads/2022/02/81_Lonely-Necromancer-1.png" alt="" class="wp-image-3302" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/81_Lonely-Necromancer-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/81_Lonely-Necromancer-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3576" src="https://sweezen.github.io/wp-content/uploads/2022/02/81_Lonely-Necromancer-2.png" alt="" class="wp-image-3576" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/81_Lonely-Necromancer-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/81_Lonely-Necromancer-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3301" src="https://sweezen.github.io/wp-content/uploads/2022/02/82_Lost-Undead-1.png" alt="" class="wp-image-3301" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/82_Lost-Undead-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/82_Lost-Undead-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3577" src="https://sweezen.github.io/wp-content/uploads/2022/02/82_Lost-Undead-2.png" alt="" class="wp-image-3577" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/82_Lost-Undead-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/82_Lost-Undead-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3303" src="https://sweezen.github.io/wp-content/uploads/2022/02/83_Master-of-the-Rotten-1.png" alt="" class="wp-image-3303" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/83_Master-of-the-Rotten-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/83_Master-of-the-Rotten-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3578" src="https://sweezen.github.io/wp-content/uploads/2022/02/83_Master-of-the-Rotten-2.png" alt="" class="wp-image-3578" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/83_Master-of-the-Rotten-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/83_Master-of-the-Rotten-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3304" src="https://sweezen.github.io/wp-content/uploads/2022/02/84_Mech-from-the-Abyss-1.png" alt="" class="wp-image-3304" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/84_Mech-from-the-Abyss-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/84_Mech-from-the-Abyss-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3579" src="https://sweezen.github.io/wp-content/uploads/2022/02/84_Mech-from-the-Abyss-2.png" alt="" class="wp-image-3579" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/84_Mech-from-the-Abyss-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/84_Mech-from-the-Abyss-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3306" src="https://sweezen.github.io/wp-content/uploads/2022/02/85_Minion-Killer-1.png" alt="" class="wp-image-3306" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/85_Minion-Killer-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/85_Minion-Killer-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3580" src="https://sweezen.github.io/wp-content/uploads/2022/02/85_Minion-Killer-2.png" alt="" class="wp-image-3580" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/85_Minion-Killer-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/85_Minion-Killer-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3305" src="https://sweezen.github.io/wp-content/uploads/2022/02/86_Nahera-the-Cave-Queen-1-1.png" alt="" class="wp-image-3305" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/86_Nahera-the-Cave-Queen-1-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/86_Nahera-the-Cave-Queen-1-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3581" src="https://sweezen.github.io/wp-content/uploads/2022/02/86_Nahera-the-Cave-Queen-1-2.png" alt="" class="wp-image-3581" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/86_Nahera-the-Cave-Queen-1-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/86_Nahera-the-Cave-Queen-1-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3308" src="https://sweezen.github.io/wp-content/uploads/2022/02/87_Nallas-the-Underground-Butcher-1.png" alt="" class="wp-image-3308" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/87_Nallas-the-Underground-Butcher-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/87_Nallas-the-Underground-Butcher-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3582" src="https://sweezen.github.io/wp-content/uploads/2022/02/87_Nallas-the-Underground-Butcher-2.png" alt="" class="wp-image-3582" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/87_Nallas-the-Underground-Butcher-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/87_Nallas-the-Underground-Butcher-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3307" src="https://sweezen.github.io/wp-content/uploads/2022/02/88_Sharpened-Sickle-1.png" alt="" class="wp-image-3307" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/88_Sharpened-Sickle-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/88_Sharpened-Sickle-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3583" src="https://sweezen.github.io/wp-content/uploads/2022/02/88_Sharpened-Sickle-2.png" alt="" class="wp-image-3583" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/88_Sharpened-Sickle-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/88_Sharpened-Sickle-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3309" src="https://sweezen.github.io/wp-content/uploads/2022/02/89_Soul-Regenerator-1.png" alt="" class="wp-image-3309" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/89_Soul-Regenerator-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/89_Soul-Regenerator-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3585" src="https://sweezen.github.io/wp-content/uploads/2022/02/89_Soul-Regenerator-2.png" alt="" class="wp-image-3585" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/89_Soul-Regenerator-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/89_Soul-Regenerator-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3310" src="https://sweezen.github.io/wp-content/uploads/2022/02/90_Spirit-Manipulator-1.png" alt="" class="wp-image-3310" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/90_Spirit-Manipulator-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/90_Spirit-Manipulator-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3584" src="https://sweezen.github.io/wp-content/uploads/2022/02/90_Spirit-Manipulator-2.png" alt="" class="wp-image-3584" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/90_Spirit-Manipulator-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/90_Spirit-Manipulator-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3312" src="https://sweezen.github.io/wp-content/uploads/2022/02/91_Squadron-Captain-1.png" alt="" class="wp-image-3312" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/91_Squadron-Captain-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/91_Squadron-Captain-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3586" src="https://sweezen.github.io/wp-content/uploads/2022/02/91_Squadron-Captain-2.png" alt="" class="wp-image-3586" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/91_Squadron-Captain-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/91_Squadron-Captain-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3311" src="https://sweezen.github.io/wp-content/uploads/2022/02/92_Surround-with-Ravens-1.png" alt="" class="wp-image-3311" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/92_Surround-with-Ravens-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/92_Surround-with-Ravens-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3587" src="https://sweezen.github.io/wp-content/uploads/2022/02/92_Surround-with-Ravens-2.png" alt="" class="wp-image-3587" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/92_Surround-with-Ravens-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/92_Surround-with-Ravens-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3313" src="https://sweezen.github.io/wp-content/uploads/2022/02/93_Torture-to-Death-1.png" alt="" class="wp-image-3313" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/93_Torture-to-Death-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/93_Torture-to-Death-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3588" src="https://sweezen.github.io/wp-content/uploads/2022/02/93_Torture-to-Death-2.png" alt="" class="wp-image-3588" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/93_Torture-to-Death-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/93_Torture-to-Death-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3314" src="https://sweezen.github.io/wp-content/uploads/2022/02/94_Ultimate-Fist-1.png" alt="" class="wp-image-3314" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/94_Ultimate-Fist-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/94_Ultimate-Fist-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3589" src="https://sweezen.github.io/wp-content/uploads/2022/02/94_Ultimate-Fist-2.png" alt="" class="wp-image-3589" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/94_Ultimate-Fist-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/94_Ultimate-Fist-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3315" src="https://sweezen.github.io/wp-content/uploads/2022/02/95_Undead-Nightmare-1.png" alt="" class="wp-image-3315" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/95_Undead-Nightmare-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/95_Undead-Nightmare-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3590" src="https://sweezen.github.io/wp-content/uploads/2022/02/95_Undead-Nightmare-2.png" alt="" class="wp-image-3590" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/95_Undead-Nightmare-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/95_Undead-Nightmare-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3316" src="https://sweezen.github.io/wp-content/uploads/2022/02/96_Verocious-Chimera-1.png" alt="" class="wp-image-3316" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/96_Verocious-Chimera-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/96_Verocious-Chimera-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3591" src="https://sweezen.github.io/wp-content/uploads/2022/02/96_Verocious-Chimera-2.png" alt="" class="wp-image-3591" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/96_Verocious-Chimera-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/96_Verocious-Chimera-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3318" src="https://sweezen.github.io/wp-content/uploads/2022/02/97_Ambush-Trooper-1.png" alt="" class="wp-image-3318" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/97_Ambush-Trooper-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/97_Ambush-Trooper-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3592" src="https://sweezen.github.io/wp-content/uploads/2022/02/97_Ambush-Trooper-2.png" alt="" class="wp-image-3592" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/97_Ambush-Trooper-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/97_Ambush-Trooper-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3317" src="https://sweezen.github.io/wp-content/uploads/2022/02/98_Awakened-Horror-1.png" alt="" class="wp-image-3317" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/98_Awakened-Horror-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/98_Awakened-Horror-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3594" src="https://sweezen.github.io/wp-content/uploads/2022/02/98_Awakened-Horror-2.png" alt="" class="wp-image-3594" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/98_Awakened-Horror-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/98_Awakened-Horror-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3320" src="https://sweezen.github.io/wp-content/uploads/2022/02/99_Burning-Chicken-1.png" alt="" class="wp-image-3320" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/99_Burning-Chicken-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/99_Burning-Chicken-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3593" src="https://sweezen.github.io/wp-content/uploads/2022/02/99_Burning-Chicken-2.png" alt="" class="wp-image-3593" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/99_Burning-Chicken-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/99_Burning-Chicken-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3319" src="https://sweezen.github.io/wp-content/uploads/2022/02/100_Burst-of-Arrows-1.png" alt="" class="wp-image-3319" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/100_Burst-of-Arrows-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/100_Burst-of-Arrows-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3595" src="https://sweezen.github.io/wp-content/uploads/2022/02/100_Burst-of-Arrows-2.png" alt="" class="wp-image-3595" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/100_Burst-of-Arrows-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/100_Burst-of-Arrows-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3321" src="https://sweezen.github.io/wp-content/uploads/2022/02/101_Desert-Expert-Chieftain-1.png" alt="" class="wp-image-3321" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/101_Desert-Expert-Chieftain-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/101_Desert-Expert-Chieftain-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3597" src="https://sweezen.github.io/wp-content/uploads/2022/02/101_Desert-Expert-Chieftain-2.png" alt="" class="wp-image-3597" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/101_Desert-Expert-Chieftain-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/101_Desert-Expert-Chieftain-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3322" src="https://sweezen.github.io/wp-content/uploads/2022/02/102_Dragon-Breath-1.png" alt="" class="wp-image-3322" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/102_Dragon-Breath-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/102_Dragon-Breath-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3596" src="https://sweezen.github.io/wp-content/uploads/2022/02/102_Dragon-Breath-2.png" alt="" class="wp-image-3596" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/102_Dragon-Breath-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/102_Dragon-Breath-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3323" src="https://sweezen.github.io/wp-content/uploads/2022/02/103_Ember-Wizard-1.png" alt="" class="wp-image-3323" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/103_Ember-Wizard-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/103_Ember-Wizard-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3598" src="https://sweezen.github.io/wp-content/uploads/2022/02/103_Ember-Wizard-2.png" alt="" class="wp-image-3598" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/103_Ember-Wizard-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/103_Ember-Wizard-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3324" src="https://sweezen.github.io/wp-content/uploads/2022/02/104_Exhorting-Sacrificial-Altar-1.png" alt="" class="wp-image-3324" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/104_Exhorting-Sacrificial-Altar-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/104_Exhorting-Sacrificial-Altar-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3599" src="https://sweezen.github.io/wp-content/uploads/2022/02/104_Exhorting-Sacrificial-Altar-2.png" alt="" class="wp-image-3599" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/104_Exhorting-Sacrificial-Altar-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/104_Exhorting-Sacrificial-Altar-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3325" src="https://sweezen.github.io/wp-content/uploads/2022/02/105_Fire-the-Dragon-1.png" alt="" class="wp-image-3325" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/105_Fire-the-Dragon-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/105_Fire-the-Dragon-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3600" src="https://sweezen.github.io/wp-content/uploads/2022/02/105_Fire-the-Dragon-2.png" alt="" class="wp-image-3600" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/105_Fire-the-Dragon-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/105_Fire-the-Dragon-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3326" src="https://sweezen.github.io/wp-content/uploads/2022/02/106_Followed-Pyromancer-1.png" alt="" class="wp-image-3326" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/106_Followed-Pyromancer-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/106_Followed-Pyromancer-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3601" src="https://sweezen.github.io/wp-content/uploads/2022/02/106_Followed-Pyromancer-2.png" alt="" class="wp-image-3601" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/106_Followed-Pyromancer-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/106_Followed-Pyromancer-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3327" src="https://sweezen.github.io/wp-content/uploads/2022/02/107_Full-Focus-1.png" alt="" class="wp-image-3327" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/107_Full-Focus-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/107_Full-Focus-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3602" src="https://sweezen.github.io/wp-content/uploads/2022/02/107_Full-Focus-2.png" alt="" class="wp-image-3602" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/107_Full-Focus-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/107_Full-Focus-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3328" src="https://sweezen.github.io/wp-content/uploads/2022/02/108_Greedy-Sorcerer-1.png" alt="" class="wp-image-3328" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/108_Greedy-Sorcerer-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/108_Greedy-Sorcerer-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3603" src="https://sweezen.github.io/wp-content/uploads/2022/02/108_Greedy-Sorcerer-2.png" alt="" class="wp-image-3603" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/108_Greedy-Sorcerer-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/108_Greedy-Sorcerer-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3329" src="https://sweezen.github.io/wp-content/uploads/2022/02/109_Greim-Son-of-the-Desert-1.png" alt="" class="wp-image-3329" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/109_Greim-Son-of-the-Desert-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/109_Greim-Son-of-the-Desert-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3604" src="https://sweezen.github.io/wp-content/uploads/2022/02/109_Greim-Son-of-the-Desert-2.png" alt="" class="wp-image-3604" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/109_Greim-Son-of-the-Desert-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/109_Greim-Son-of-the-Desert-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3330" src="https://sweezen.github.io/wp-content/uploads/2022/02/110_Heat-Up-the-Army-1.png" alt="" class="wp-image-3330" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/110_Heat-Up-the-Army-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/110_Heat-Up-the-Army-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3605" src="https://sweezen.github.io/wp-content/uploads/2022/02/110_Heat-Up-the-Army-2.png" alt="" class="wp-image-3605" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/110_Heat-Up-the-Army-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/110_Heat-Up-the-Army-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3331" src="https://sweezen.github.io/wp-content/uploads/2022/02/111_Hungry-Monster-1.png" alt="" class="wp-image-3331" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/111_Hungry-Monster-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/111_Hungry-Monster-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3606" src="https://sweezen.github.io/wp-content/uploads/2022/02/111_Hungry-Monster-2.png" alt="" class="wp-image-3606" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/111_Hungry-Monster-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/111_Hungry-Monster-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3332" src="https://sweezen.github.io/wp-content/uploads/2022/02/112_Jeela-Lord-of-the-Desert-1.png" alt="" class="wp-image-3332" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/112_Jeela-Lord-of-the-Desert-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/112_Jeela-Lord-of-the-Desert-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3607" src="https://sweezen.github.io/wp-content/uploads/2022/02/112_Jeela-Lord-of-the-Desert-2.png" alt="" class="wp-image-3607" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/112_Jeela-Lord-of-the-Desert-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/112_Jeela-Lord-of-the-Desert-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3333" src="https://sweezen.github.io/wp-content/uploads/2022/02/113_Knight-of-Terror-1.png" alt="" class="wp-image-3333" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/113_Knight-of-Terror-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/113_Knight-of-Terror-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3608" src="https://sweezen.github.io/wp-content/uploads/2022/02/113_Knight-of-Terror-2.png" alt="" class="wp-image-3608" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/113_Knight-of-Terror-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/113_Knight-of-Terror-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3334" src="https://sweezen.github.io/wp-content/uploads/2022/02/114_Lava-Artificer-1.png" alt="" class="wp-image-3334" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/114_Lava-Artificer-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/114_Lava-Artificer-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3609" src="https://sweezen.github.io/wp-content/uploads/2022/02/114_Lava-Artificer-2.png" alt="" class="wp-image-3609" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/114_Lava-Artificer-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/114_Lava-Artificer-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3335" src="https://sweezen.github.io/wp-content/uploads/2022/02/115_Long-Range-Spear-1.png" alt="" class="wp-image-3335" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/115_Long-Range-Spear-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/115_Long-Range-Spear-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3610" src="https://sweezen.github.io/wp-content/uploads/2022/02/115_Long-Range-Spear-2.png" alt="" class="wp-image-3610" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/115_Long-Range-Spear-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/115_Long-Range-Spear-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3336" src="https://sweezen.github.io/wp-content/uploads/2022/02/116_Lott-dHal-the-Enlist-City-1.png" alt="" class="wp-image-3336" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/116_Lott-dHal-the-Enlist-City-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/116_Lott-dHal-the-Enlist-City-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3611" src="https://sweezen.github.io/wp-content/uploads/2022/02/116_Lott-dHal-the-Enlist-City-2.png" alt="" class="wp-image-3611" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/116_Lott-dHal-the-Enlist-City-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/116_Lott-dHal-the-Enlist-City-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3338" src="https://sweezen.github.io/wp-content/uploads/2022/02/117_Naessy-the-Child-King-1.png" alt="" class="wp-image-3338" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/117_Naessy-the-Child-King-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/117_Naessy-the-Child-King-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3612" src="https://sweezen.github.io/wp-content/uploads/2022/02/117_Naessy-the-Child-King-2.png" alt="" class="wp-image-3612" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/117_Naessy-the-Child-King-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/117_Naessy-the-Child-King-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3337" src="https://sweezen.github.io/wp-content/uploads/2022/02/118_Proper-Combat-1.png" alt="" class="wp-image-3337" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/118_Proper-Combat-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/118_Proper-Combat-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3613" src="https://sweezen.github.io/wp-content/uploads/2022/02/118_Proper-Combat-2.png" alt="" class="wp-image-3613" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/118_Proper-Combat-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/118_Proper-Combat-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3339" src="https://sweezen.github.io/wp-content/uploads/2022/02/119_Rebel-Slinger-1.png" alt="" class="wp-image-3339" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/119_Rebel-Slinger-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/119_Rebel-Slinger-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3614" src="https://sweezen.github.io/wp-content/uploads/2022/02/119_Rebel-Slinger-2.png" alt="" class="wp-image-3614" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/119_Rebel-Slinger-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/119_Rebel-Slinger-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3340" src="https://sweezen.github.io/wp-content/uploads/2022/02/120_Reckless-Stealing-1.png" alt="" class="wp-image-3340" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/120_Reckless-Stealing-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/120_Reckless-Stealing-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3615" src="https://sweezen.github.io/wp-content/uploads/2022/02/120_Reckless-Stealing-2.png" alt="" class="wp-image-3615" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/120_Reckless-Stealing-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/120_Reckless-Stealing-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3341" src="https://sweezen.github.io/wp-content/uploads/2022/02/121_Rolled-in-Fire-1.png" alt="" class="wp-image-3341" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/121_Rolled-in-Fire-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/121_Rolled-in-Fire-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3616" src="https://sweezen.github.io/wp-content/uploads/2022/02/121_Rolled-in-Fire-2.png" alt="" class="wp-image-3616" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/121_Rolled-in-Fire-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/121_Rolled-in-Fire-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3342" src="https://sweezen.github.io/wp-content/uploads/2022/02/122_Rush-Through-the-Fire-1.png" alt="" class="wp-image-3342" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/122_Rush-Through-the-Fire-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/122_Rush-Through-the-Fire-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3617" src="https://sweezen.github.io/wp-content/uploads/2022/02/122_Rush-Through-the-Fire-2.png" alt="" class="wp-image-3617" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/122_Rush-Through-the-Fire-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/122_Rush-Through-the-Fire-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3344" src="https://sweezen.github.io/wp-content/uploads/2022/02/123_Skygliding-Monstrosity-1.png" alt="" class="wp-image-3344" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/123_Skygliding-Monstrosity-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/123_Skygliding-Monstrosity-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3618" src="https://sweezen.github.io/wp-content/uploads/2022/02/123_Skygliding-Monstrosity-2.png" alt="" class="wp-image-3618" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/123_Skygliding-Monstrosity-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/123_Skygliding-Monstrosity-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3343" src="https://sweezen.github.io/wp-content/uploads/2022/02/124_Summon-the-Sun-Gods-1.png" alt="" class="wp-image-3343" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/124_Summon-the-Sun-Gods-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/124_Summon-the-Sun-Gods-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3619" src="https://sweezen.github.io/wp-content/uploads/2022/02/124_Summon-the-Sun-Gods-2.png" alt="" class="wp-image-3619" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/124_Summon-the-Sun-Gods-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/124_Summon-the-Sun-Gods-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3346" src="https://sweezen.github.io/wp-content/uploads/2022/02/125_Tenacious-Mercenaries-1.png" alt="" class="wp-image-3346" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/125_Tenacious-Mercenaries-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/125_Tenacious-Mercenaries-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3620" src="https://sweezen.github.io/wp-content/uploads/2022/02/125_Tenacious-Mercenaries-2.png" alt="" class="wp-image-3620" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/125_Tenacious-Mercenaries-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/125_Tenacious-Mercenaries-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3345" src="https://sweezen.github.io/wp-content/uploads/2022/02/126_Uncautious-Adventurer-1.png" alt="" class="wp-image-3345" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/126_Uncautious-Adventurer-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/126_Uncautious-Adventurer-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3621" src="https://sweezen.github.io/wp-content/uploads/2022/02/126_Uncautious-Adventurer-2.png" alt="" class="wp-image-3621" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/126_Uncautious-Adventurer-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/126_Uncautious-Adventurer-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3347" src="https://sweezen.github.io/wp-content/uploads/2022/02/127_Urge-wih-Fire-1.png" alt="" class="wp-image-3347" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/127_Urge-wih-Fire-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/127_Urge-wih-Fire-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3622" src="https://sweezen.github.io/wp-content/uploads/2022/02/127_Urge-wih-Fire-2.png" alt="" class="wp-image-3622" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/127_Urge-wih-Fire-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/127_Urge-wih-Fire-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3348" src="https://sweezen.github.io/wp-content/uploads/2022/02/128_Warm-Blood-Mage-1.png" alt="" class="wp-image-3348" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/128_Warm-Blood-Mage-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/128_Warm-Blood-Mage-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3623" src="https://sweezen.github.io/wp-content/uploads/2022/02/128_Warm-Blood-Mage-2.png" alt="" class="wp-image-3623" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/128_Warm-Blood-Mage-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/128_Warm-Blood-Mage-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3349" src="https://sweezen.github.io/wp-content/uploads/2022/02/129_Aeya-Queen-of-the-Forest-1.png" alt="" class="wp-image-3349" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/129_Aeya-Queen-of-the-Forest-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/129_Aeya-Queen-of-the-Forest-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3624" src="https://sweezen.github.io/wp-content/uploads/2022/02/129_Aeya-Queen-of-the-Forest-2.png" alt="" class="wp-image-3624" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/129_Aeya-Queen-of-the-Forest-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/129_Aeya-Queen-of-the-Forest-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3350" src="https://sweezen.github.io/wp-content/uploads/2022/02/130_Caller-of-the-Forest-1.png" alt="" class="wp-image-3350" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/130_Caller-of-the-Forest-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/130_Caller-of-the-Forest-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3625" src="https://sweezen.github.io/wp-content/uploads/2022/02/130_Caller-of-the-Forest-2.png" alt="" class="wp-image-3625" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/130_Caller-of-the-Forest-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/130_Caller-of-the-Forest-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3351" src="https://sweezen.github.io/wp-content/uploads/2022/02/131_Chimera-Summoning-1.png" alt="" class="wp-image-3351" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/131_Chimera-Summoning-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/131_Chimera-Summoning-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3626" src="https://sweezen.github.io/wp-content/uploads/2022/02/131_Chimera-Summoning-2.png" alt="" class="wp-image-3626" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/131_Chimera-Summoning-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/131_Chimera-Summoning-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3352" src="https://sweezen.github.io/wp-content/uploads/2022/02/132_Chop-the-Woodcutter-1.png" alt="" class="wp-image-3352" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/132_Chop-the-Woodcutter-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/132_Chop-the-Woodcutter-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3627" src="https://sweezen.github.io/wp-content/uploads/2022/02/132_Chop-the-Woodcutter-2.png" alt="" class="wp-image-3627" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/132_Chop-the-Woodcutter-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/132_Chop-the-Woodcutter-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3353" src="https://sweezen.github.io/wp-content/uploads/2022/02/133_Combine-with-the-Wood-1.png" alt="" class="wp-image-3353" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/133_Combine-with-the-Wood-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/133_Combine-with-the-Wood-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3628" src="https://sweezen.github.io/wp-content/uploads/2022/02/133_Combine-with-the-Wood-2.png" alt="" class="wp-image-3628" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/133_Combine-with-the-Wood-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/133_Combine-with-the-Wood-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3354" src="https://sweezen.github.io/wp-content/uploads/2022/02/134_Dismantler-Beast-1.png" alt="" class="wp-image-3354" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/134_Dismantler-Beast-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/134_Dismantler-Beast-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3629" src="https://sweezen.github.io/wp-content/uploads/2022/02/134_Dismantler-Beast-2.png" alt="" class="wp-image-3629" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/134_Dismantler-Beast-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/134_Dismantler-Beast-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3356" src="https://sweezen.github.io/wp-content/uploads/2022/02/135_Elders-Memory-1.png" alt="" class="wp-image-3356" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/135_Elders-Memory-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/135_Elders-Memory-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3630" src="https://sweezen.github.io/wp-content/uploads/2022/02/135_Elders-Memory-2.png" alt="" class="wp-image-3630" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/135_Elders-Memory-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/135_Elders-Memory-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3355" src="https://sweezen.github.io/wp-content/uploads/2022/02/136_Elders-Robot-1.png" alt="" class="wp-image-3355" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/136_Elders-Robot-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/136_Elders-Robot-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3631" src="https://sweezen.github.io/wp-content/uploads/2022/02/136_Elders-Robot-2.png" alt="" class="wp-image-3631" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/136_Elders-Robot-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/136_Elders-Robot-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3357" src="https://sweezen.github.io/wp-content/uploads/2022/02/137_Faithful-Enchanter-1-1.png" alt="" class="wp-image-3357" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/137_Faithful-Enchanter-1-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/137_Faithful-Enchanter-1-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3632" src="https://sweezen.github.io/wp-content/uploads/2022/02/137_Faithful-Enchanter-1-2.png" alt="" class="wp-image-3632" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/137_Faithful-Enchanter-1-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/137_Faithful-Enchanter-1-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3358" src="https://sweezen.github.io/wp-content/uploads/2022/02/138_Forest-Ancester-1.png" alt="" class="wp-image-3358" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/138_Forest-Ancester-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/138_Forest-Ancester-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3633" src="https://sweezen.github.io/wp-content/uploads/2022/02/138_Forest-Ancester-2.png" alt="" class="wp-image-3633" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/138_Forest-Ancester-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/138_Forest-Ancester-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3359" src="https://sweezen.github.io/wp-content/uploads/2022/02/139_Forest-Giant-1.png" alt="" class="wp-image-3359" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/139_Forest-Giant-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/139_Forest-Giant-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3634" src="https://sweezen.github.io/wp-content/uploads/2022/02/139_Forest-Giant-2.png" alt="" class="wp-image-3634" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/139_Forest-Giant-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/139_Forest-Giant-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3360" src="https://sweezen.github.io/wp-content/uploads/2022/02/140_Forest-Watcher-1.png" alt="" class="wp-image-3360" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/140_Forest-Watcher-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/140_Forest-Watcher-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3635" src="https://sweezen.github.io/wp-content/uploads/2022/02/140_Forest-Watcher-2.png" alt="" class="wp-image-3635" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/140_Forest-Watcher-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/140_Forest-Watcher-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3361" src="https://sweezen.github.io/wp-content/uploads/2022/02/141_Fraella-Defender-of-the-Embush-1.png" alt="" class="wp-image-3361" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/141_Fraella-Defender-of-the-Embush-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/141_Fraella-Defender-of-the-Embush-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3636" src="https://sweezen.github.io/wp-content/uploads/2022/02/141_Fraella-Defender-of-the-Embush-2.png" alt="" class="wp-image-3636" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/141_Fraella-Defender-of-the-Embush-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/141_Fraella-Defender-of-the-Embush-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3362" src="https://sweezen.github.io/wp-content/uploads/2022/02/142_Furious-Charger-1.png" alt="" class="wp-image-3362" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/142_Furious-Charger-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/142_Furious-Charger-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3637" src="https://sweezen.github.io/wp-content/uploads/2022/02/142_Furious-Charger-2.png" alt="" class="wp-image-3637" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/142_Furious-Charger-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/142_Furious-Charger-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3364" src="https://sweezen.github.io/wp-content/uploads/2022/02/143_Goktar-the-Half-Man-1.png" alt="" class="wp-image-3364" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/143_Goktar-the-Half-Man-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/143_Goktar-the-Half-Man-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3638" src="https://sweezen.github.io/wp-content/uploads/2022/02/143_Goktar-the-Half-Man-2.png" alt="" class="wp-image-3638" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/143_Goktar-the-Half-Man-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/143_Goktar-the-Half-Man-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3363" src="https://sweezen.github.io/wp-content/uploads/2022/02/144_Growth-Keeper-Angel-1.png" alt="" class="wp-image-3363" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/144_Growth-Keeper-Angel-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/144_Growth-Keeper-Angel-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3639" src="https://sweezen.github.io/wp-content/uploads/2022/02/144_Growth-Keeper-Angel-2.png" alt="" class="wp-image-3639" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/144_Growth-Keeper-Angel-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/144_Growth-Keeper-Angel-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3366" src="https://sweezen.github.io/wp-content/uploads/2022/02/145_Growth-Staff-1.png" alt="" class="wp-image-3366" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/145_Growth-Staff-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/145_Growth-Staff-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3640" src="https://sweezen.github.io/wp-content/uploads/2022/02/145_Growth-Staff-2.png" alt="" class="wp-image-3640" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/145_Growth-Staff-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/145_Growth-Staff-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3365" src="https://sweezen.github.io/wp-content/uploads/2022/02/146_Lord-of-the-Forest-1.png" alt="" class="wp-image-3365" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/146_Lord-of-the-Forest-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/146_Lord-of-the-Forest-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3642" src="https://sweezen.github.io/wp-content/uploads/2022/02/146_KilEl-Lord-of-the-Forest.png" alt="" class="wp-image-3642" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/146_KilEl-Lord-of-the-Forest.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/146_KilEl-Lord-of-the-Forest-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3367" src="https://sweezen.github.io/wp-content/uploads/2022/02/147_Lower-the-Guard-1.png" alt="" class="wp-image-3367" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/147_Lower-the-Guard-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/147_Lower-the-Guard-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3641" src="https://sweezen.github.io/wp-content/uploads/2022/02/147_Lower-the-Guard-2.png" alt="" class="wp-image-3641" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/147_Lower-the-Guard-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/147_Lower-the-Guard-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3368" src="https://sweezen.github.io/wp-content/uploads/2022/02/148_Mettis-Moutains-Sanctuary-1.png" alt="" class="wp-image-3368" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/148_Mettis-Moutains-Sanctuary-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/148_Mettis-Moutains-Sanctuary-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3643" src="https://sweezen.github.io/wp-content/uploads/2022/02/148_Mettis-Moutains-Sanctuary-2.png" alt="" class="wp-image-3643" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/148_Mettis-Moutains-Sanctuary-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/148_Mettis-Moutains-Sanctuary-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3369" src="https://sweezen.github.io/wp-content/uploads/2022/02/149_Mipria-the-Concealed-City-1-1.png" alt="" class="wp-image-3369" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/149_Mipria-the-Concealed-City-1-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/149_Mipria-the-Concealed-City-1-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3644" src="https://sweezen.github.io/wp-content/uploads/2022/02/149_Mipria-the-Concealed-City-1-2.png" alt="" class="wp-image-3644" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/149_Mipria-the-Concealed-City-1-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/149_Mipria-the-Concealed-City-1-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3370" src="https://sweezen.github.io/wp-content/uploads/2022/02/150_Moving-Mount-1.png" alt="" class="wp-image-3370" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/150_Moving-Mount-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/150_Moving-Mount-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3645" src="https://sweezen.github.io/wp-content/uploads/2022/02/150_Moving-Mount-2.png" alt="" class="wp-image-3645" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/150_Moving-Mount-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/150_Moving-Mount-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3371" src="https://sweezen.github.io/wp-content/uploads/2022/02/151_Natural-Passage-1.png" alt="" class="wp-image-3371" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/151_Natural-Passage-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/151_Natural-Passage-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3646" src="https://sweezen.github.io/wp-content/uploads/2022/02/151_Natural-Passage-2.png" alt="" class="wp-image-3646" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/151_Natural-Passage-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/151_Natural-Passage-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3372" src="https://sweezen.github.io/wp-content/uploads/2022/02/152_Nature-Right-Protector-1.png" alt="" class="wp-image-3372" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/152_Nature-Right-Protector-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/152_Nature-Right-Protector-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3648" src="https://sweezen.github.io/wp-content/uploads/2022/02/152_Nature-Right-Protector-2.png" alt="" class="wp-image-3648" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/152_Nature-Right-Protector-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/152_Nature-Right-Protector-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3373" src="https://sweezen.github.io/wp-content/uploads/2022/02/153_Pray-for-the-Woods-1.png" alt="" class="wp-image-3373" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/153_Pray-for-the-Woods-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/153_Pray-for-the-Woods-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3647" src="https://sweezen.github.io/wp-content/uploads/2022/02/153_Pray-for-the-Woods-2.png" alt="" class="wp-image-3647" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/153_Pray-for-the-Woods-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/153_Pray-for-the-Woods-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3374" src="https://sweezen.github.io/wp-content/uploads/2022/02/154_Pure-Being-1.png" alt="" class="wp-image-3374" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/154_Pure-Being-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/154_Pure-Being-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3649" src="https://sweezen.github.io/wp-content/uploads/2022/02/154_Pure-Being-2.png" alt="" class="wp-image-3649" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/154_Pure-Being-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/154_Pure-Being-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3375" src="https://sweezen.github.io/wp-content/uploads/2022/02/155_Pursuit-1.png" alt="" class="wp-image-3375" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/155_Pursuit-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/155_Pursuit-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3650" src="https://sweezen.github.io/wp-content/uploads/2022/02/155_Pursuit-2.png" alt="" class="wp-image-3650" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/155_Pursuit-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/155_Pursuit-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3376" src="https://sweezen.github.io/wp-content/uploads/2022/02/156_Rush-Out-of-the-Woods-1.png" alt="" class="wp-image-3376" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/156_Rush-Out-of-the-Woods-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/156_Rush-Out-of-the-Woods-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3651" src="https://sweezen.github.io/wp-content/uploads/2022/02/156_Rush-Out-of-the-Woods-2.png" alt="" class="wp-image-3651" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/156_Rush-Out-of-the-Woods-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/156_Rush-Out-of-the-Woods-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3378" src="https://sweezen.github.io/wp-content/uploads/2022/02/157_Scout-Soldier-1.png" alt="" class="wp-image-3378" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/157_Scout-Soldier-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/157_Scout-Soldier-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3652" src="https://sweezen.github.io/wp-content/uploads/2022/02/157_Scout-Soldier-2.png" alt="" class="wp-image-3652" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/157_Scout-Soldier-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/157_Scout-Soldier-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3377" src="https://sweezen.github.io/wp-content/uploads/2022/02/158_Successfull-Veteran-1.png" alt="" class="wp-image-3377" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/158_Successfull-Veteran-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/158_Successfull-Veteran-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3653" src="https://sweezen.github.io/wp-content/uploads/2022/02/158_Successfull-Veteran-2.png" alt="" class="wp-image-3653" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/158_Successfull-Veteran-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/158_Successfull-Veteran-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3379" src="https://sweezen.github.io/wp-content/uploads/2022/02/159_Surrounded-by-Nature-1.png" alt="" class="wp-image-3379" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/159_Surrounded-by-Nature-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/159_Surrounded-by-Nature-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3654" src="https://sweezen.github.io/wp-content/uploads/2022/02/159_Surrounded-by-Nature-2.png" alt="" class="wp-image-3654" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/159_Surrounded-by-Nature-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/159_Surrounded-by-Nature-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3380" src="https://sweezen.github.io/wp-content/uploads/2022/02/160_Synthesized-Golem-1.png" alt="" class="wp-image-3380" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/160_Synthesized-Golem-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/160_Synthesized-Golem-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3655" src="https://sweezen.github.io/wp-content/uploads/2022/02/160_Synthesized-Golem-2.png" alt="" class="wp-image-3655" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/160_Synthesized-Golem-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/160_Synthesized-Golem-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3381" src="https://sweezen.github.io/wp-content/uploads/2022/02/161_Alena-the-Watchful-Captain-1.png" alt="" class="wp-image-3381" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/161_Alena-the-Watchful-Captain-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/161_Alena-the-Watchful-Captain-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3656" src="https://sweezen.github.io/wp-content/uploads/2022/02/161_Alena-the-Watchful-Captain-2.png" alt="" class="wp-image-3656" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/161_Alena-the-Watchful-Captain-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/161_Alena-the-Watchful-Captain-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3382" src="https://sweezen.github.io/wp-content/uploads/2022/02/162_Arana-Leader-of-the-Desert-Troops-1.png" alt="" class="wp-image-3382" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/162_Arana-Leader-of-the-Desert-Troops-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/162_Arana-Leader-of-the-Desert-Troops-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3657" src="https://sweezen.github.io/wp-content/uploads/2022/02/162_Arana-Leader-of-the-Desert-Troops-2.png" alt="" class="wp-image-3657" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/162_Arana-Leader-of-the-Desert-Troops-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/162_Arana-Leader-of-the-Desert-Troops-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3383" src="https://sweezen.github.io/wp-content/uploads/2022/02/163_Bertram-the-Enlighted-Traveler.png" alt="" class="wp-image-3383" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/163_Bertram-the-Enlighted-Traveler.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/163_Bertram-the-Enlighted-Traveler-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3658" src="https://sweezen.github.io/wp-content/uploads/2022/02/163_Bertram-the-Enlighted-Traveler-1.png" alt="" class="wp-image-3658" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/163_Bertram-the-Enlighted-Traveler-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/163_Bertram-the-Enlighted-Traveler-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3384" src="https://sweezen.github.io/wp-content/uploads/2022/02/164_Brilliant-Faery-1-1.png" alt="" class="wp-image-3384" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/164_Brilliant-Faery-1-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/164_Brilliant-Faery-1-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3659" src="https://sweezen.github.io/wp-content/uploads/2022/02/164_Brilliant-Faery-1-2.png" alt="" class="wp-image-3659" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/164_Brilliant-Faery-1-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/164_Brilliant-Faery-1-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3385" src="https://sweezen.github.io/wp-content/uploads/2022/02/165_Corrupted-Fire-Golem-1.png" alt="" class="wp-image-3385" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/165_Corrupted-Fire-Golem-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/165_Corrupted-Fire-Golem-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3660" src="https://sweezen.github.io/wp-content/uploads/2022/02/165_Corrupted-Fire-Golem-2.png" alt="" class="wp-image-3660" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/165_Corrupted-Fire-Golem-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/165_Corrupted-Fire-Golem-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3386" src="https://sweezen.github.io/wp-content/uploads/2022/02/166_Devoted-for-the-Good-1.png" alt="" class="wp-image-3386" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/166_Devoted-for-the-Good-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/166_Devoted-for-the-Good-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3661" src="https://sweezen.github.io/wp-content/uploads/2022/02/166_Devoted-for-the-Good-2.png" alt="" class="wp-image-3661" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/166_Devoted-for-the-Good-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/166_Devoted-for-the-Good-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3387" src="https://sweezen.github.io/wp-content/uploads/2022/02/167_Drill-Trees-Talker-1.png" alt="" class="wp-image-3387" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/167_Drill-Trees-Talker-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/167_Drill-Trees-Talker-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3662" src="https://sweezen.github.io/wp-content/uploads/2022/02/167_Drill-Trees-Talker-2.png" alt="" class="wp-image-3662" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/167_Drill-Trees-Talker-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/167_Drill-Trees-Talker-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3388" src="https://sweezen.github.io/wp-content/uploads/2022/02/168_Enraged-Boars.png" alt="" class="wp-image-3388" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/168_Enraged-Boars.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/168_Enraged-Boars-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3663" src="https://sweezen.github.io/wp-content/uploads/2022/02/168_Enraged-Boars-1.png" alt="" class="wp-image-3663" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/168_Enraged-Boars-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/168_Enraged-Boars-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3389" src="https://sweezen.github.io/wp-content/uploads/2022/02/169_Experimental-Alchemist.png" alt="" class="wp-image-3389" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/169_Experimental-Alchemist.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/169_Experimental-Alchemist-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3664" src="https://sweezen.github.io/wp-content/uploads/2022/02/169_Experimental-Alchemist-1.png" alt="" class="wp-image-3664" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/169_Experimental-Alchemist-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/169_Experimental-Alchemist-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3390" src="https://sweezen.github.io/wp-content/uploads/2022/02/170_Fiery-Hound.png" alt="" class="wp-image-3390" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/170_Fiery-Hound.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/170_Fiery-Hound-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3665" src="https://sweezen.github.io/wp-content/uploads/2022/02/170_Fiery-Hound-1.png" alt="" class="wp-image-3665" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/170_Fiery-Hound-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/170_Fiery-Hound-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3391" src="https://sweezen.github.io/wp-content/uploads/2022/02/171_Fire-Visions.png" alt="" class="wp-image-3391" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/171_Fire-Visions.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/171_Fire-Visions-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3666" src="https://sweezen.github.io/wp-content/uploads/2022/02/171_Fire-Visions-1.png" alt="" class="wp-image-3666" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/171_Fire-Visions-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/171_Fire-Visions-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3392" src="https://sweezen.github.io/wp-content/uploads/2022/02/172_Flaming-Reptilian.png" alt="" class="wp-image-3392" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/172_Flaming-Reptilian.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/172_Flaming-Reptilian-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3667" src="https://sweezen.github.io/wp-content/uploads/2022/02/172_Flaming-Reptilian-1.png" alt="" class="wp-image-3667" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/172_Flaming-Reptilian-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/172_Flaming-Reptilian-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3393" src="https://sweezen.github.io/wp-content/uploads/2022/02/173_Forest-Faery.png" alt="" class="wp-image-3393" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/173_Forest-Faery.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/173_Forest-Faery-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3668" src="https://sweezen.github.io/wp-content/uploads/2022/02/173_Forest-Faery-1.png" alt="" class="wp-image-3668" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/173_Forest-Faery-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/173_Forest-Faery-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3394" src="https://sweezen.github.io/wp-content/uploads/2022/02/174_Forest-Revenge.png" alt="" class="wp-image-3394" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/174_Forest-Revenge.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/174_Forest-Revenge-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3669" src="https://sweezen.github.io/wp-content/uploads/2022/02/174_Forest-Revenge-1.png" alt="" class="wp-image-3669" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/174_Forest-Revenge-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/174_Forest-Revenge-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3395" src="https://sweezen.github.io/wp-content/uploads/2022/02/175_Forgotten-Golem.png" alt="" class="wp-image-3395" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/175_Forgotten-Golem.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/175_Forgotten-Golem-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3671" src="https://sweezen.github.io/wp-content/uploads/2022/02/175_Forgotten-Golem-1.png" alt="" class="wp-image-3671" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/175_Forgotten-Golem-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/175_Forgotten-Golem-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3396" src="https://sweezen.github.io/wp-content/uploads/2022/02/176_Fungus-Poison.png" alt="" class="wp-image-3396" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/176_Fungus-Poison.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/176_Fungus-Poison-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3670" src="https://sweezen.github.io/wp-content/uploads/2022/02/176_Fungus-Poison-1.png" alt="" class="wp-image-3670" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/176_Fungus-Poison-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/176_Fungus-Poison-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3397" src="https://sweezen.github.io/wp-content/uploads/2022/02/177_Gabriel-the-Sky-Soldier.png" alt="" class="wp-image-3397" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/177_Gabriel-the-Sky-Soldier.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/177_Gabriel-the-Sky-Soldier-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3673" src="https://sweezen.github.io/wp-content/uploads/2022/02/177_Gabriel-the-Sky-Soldier-1.png" alt="" class="wp-image-3673" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/177_Gabriel-the-Sky-Soldier-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/177_Gabriel-the-Sky-Soldier-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3398" src="https://sweezen.github.io/wp-content/uploads/2022/02/178_Gleedal-the-Expelled-God.png" alt="" class="wp-image-3398" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/178_Gleedal-the-Expelled-God.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/178_Gleedal-the-Expelled-God-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3672" src="https://sweezen.github.io/wp-content/uploads/2022/02/178_Gleedal-the-Expelled-God-1.png" alt="" class="wp-image-3672" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/178_Gleedal-the-Expelled-God-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/178_Gleedal-the-Expelled-God-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3399" src="https://sweezen.github.io/wp-content/uploads/2022/02/179_Gods-Command.png" alt="" class="wp-image-3399" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/179_Gods-Command.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/179_Gods-Command-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3674" src="https://sweezen.github.io/wp-content/uploads/2022/02/179_Gods-Command-1.png" alt="" class="wp-image-3674" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/179_Gods-Command-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/179_Gods-Command-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3401" src="https://sweezen.github.io/wp-content/uploads/2022/02/180_Guardian-of-the-Island.png" alt="" class="wp-image-3401" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/180_Guardian-of-the-Island.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/180_Guardian-of-the-Island-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3675" src="https://sweezen.github.io/wp-content/uploads/2022/02/180_Guardian-of-the-Island-1.png" alt="" class="wp-image-3675" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/180_Guardian-of-the-Island-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/180_Guardian-of-the-Island-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3400" src="https://sweezen.github.io/wp-content/uploads/2022/02/181_Hermit-Lion-Mediator-of-the-Realm.png" alt="" class="wp-image-3400" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/181_Hermit-Lion-Mediator-of-the-Realm.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/181_Hermit-Lion-Mediator-of-the-Realm-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3677" src="https://sweezen.github.io/wp-content/uploads/2022/02/181_Hidden-in-the-Shadows.png" alt="" class="wp-image-3677" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/181_Hidden-in-the-Shadows.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/181_Hidden-in-the-Shadows-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3402" src="https://sweezen.github.io/wp-content/uploads/2022/02/182_Hidden-in-the-Shadows.png" alt="" class="wp-image-3402" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/182_Hidden-in-the-Shadows.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/182_Hidden-in-the-Shadows-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3676" src="https://sweezen.github.io/wp-content/uploads/2022/02/182_Inspiring-Ermit.png" alt="" class="wp-image-3676" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/182_Inspiring-Ermit.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/182_Inspiring-Ermit-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3403" src="https://sweezen.github.io/wp-content/uploads/2022/02/183_Inspiring-Ermit.png" alt="" class="wp-image-3403" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/183_Inspiring-Ermit.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/183_Inspiring-Ermit-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3678" src="https://sweezen.github.io/wp-content/uploads/2022/02/183_Kain-Betrayer-of-Vulnir.png" alt="" class="wp-image-3678" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/183_Kain-Betrayer-of-Vulnir.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/183_Kain-Betrayer-of-Vulnir-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3404" src="https://sweezen.github.io/wp-content/uploads/2022/02/184_Kain-Betrayer-of-Vulnir.png" alt="" class="wp-image-3404" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/184_Kain-Betrayer-of-Vulnir.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/184_Kain-Betrayer-of-Vulnir-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3679" src="https://sweezen.github.io/wp-content/uploads/2022/02/184_Kara-Earth-Valkyrie.png" alt="" class="wp-image-3679" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/184_Kara-Earth-Valkyrie.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/184_Kara-Earth-Valkyrie-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3405" src="https://sweezen.github.io/wp-content/uploads/2022/02/185_Kara-Earth-Valkyrie.png" alt="" class="wp-image-3405" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/185_Kara-Earth-Valkyrie.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/185_Kara-Earth-Valkyrie-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3680" src="https://sweezen.github.io/wp-content/uploads/2022/02/185_Landfall-Forest-Sacrifice.png" alt="" class="wp-image-3680" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/185_Landfall-Forest-Sacrifice.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/185_Landfall-Forest-Sacrifice-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3406" src="https://sweezen.github.io/wp-content/uploads/2022/02/186_Landfall-Forest-Sacrifice.png" alt="" class="wp-image-3406" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/186_Landfall-Forest-Sacrifice.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/186_Landfall-Forest-Sacrifice-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3681" src="https://sweezen.github.io/wp-content/uploads/2022/02/186_Liberty-of-Mind.png" alt="" class="wp-image-3681" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/186_Liberty-of-Mind.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/186_Liberty-of-Mind-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3407" src="https://sweezen.github.io/wp-content/uploads/2022/02/187_Liberty-of-Mind.png" alt="" class="wp-image-3407" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/187_Liberty-of-Mind.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/187_Liberty-of-Mind-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3683" src="https://sweezen.github.io/wp-content/uploads/2022/02/187_Lilys-Servant.png" alt="" class="wp-image-3683" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/187_Lilys-Servant.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/187_Lilys-Servant-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3408" src="https://sweezen.github.io/wp-content/uploads/2022/02/188_Lilys-Servant.png" alt="" class="wp-image-3408" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/188_Lilys-Servant.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/188_Lilys-Servant-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3682" src="https://sweezen.github.io/wp-content/uploads/2022/02/188_Mazael-Undead-Light-Guardian.png" alt="" class="wp-image-3682" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/188_Mazael-Undead-Light-Guardian.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/188_Mazael-Undead-Light-Guardian-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3409" src="https://sweezen.github.io/wp-content/uploads/2022/02/189_Menfilt-the-Emanation.png" alt="" class="wp-image-3409" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/189_Menfilt-the-Emanation.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/189_Menfilt-the-Emanation-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3684" src="https://sweezen.github.io/wp-content/uploads/2022/02/189_Menfilt-the-Emanation-1.png" alt="" class="wp-image-3684" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/189_Menfilt-the-Emanation-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/189_Menfilt-the-Emanation-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3410" src="https://sweezen.github.io/wp-content/uploads/2022/02/190_Necromancy.png" alt="" class="wp-image-3410" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/190_Necromancy.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/190_Necromancy-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3685" src="https://sweezen.github.io/wp-content/uploads/2022/02/190_Nollie-Master-of-the-Way.png" alt="" class="wp-image-3685" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/190_Nollie-Master-of-the-Way.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/190_Nollie-Master-of-the-Way-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3411" src="https://sweezen.github.io/wp-content/uploads/2022/02/191_Nollie-Master-of-the-Way.png" alt="" class="wp-image-3411" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/191_Nollie-Master-of-the-Way.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/191_Nollie-Master-of-the-Way-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3686" src="https://sweezen.github.io/wp-content/uploads/2022/02/191_Pray-the-Elders.png" alt="" class="wp-image-3686" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/191_Pray-the-Elders.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/191_Pray-the-Elders-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3412" src="https://sweezen.github.io/wp-content/uploads/2022/02/192_Pray-the-Elders.png" alt="" class="wp-image-3412" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/192_Pray-the-Elders.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/192_Pray-the-Elders-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3687" src="https://sweezen.github.io/wp-content/uploads/2022/02/192_Rain-of-Arrows.png" alt="" class="wp-image-3687" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/192_Rain-of-Arrows.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/192_Rain-of-Arrows-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3413" src="https://sweezen.github.io/wp-content/uploads/2022/02/193_Rain-of-Arrows.png" alt="" class="wp-image-3413" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/193_Rain-of-Arrows.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/193_Rain-of-Arrows-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3688" src="https://sweezen.github.io/wp-content/uploads/2022/02/193_Recall-From-the-Dead.png" alt="" class="wp-image-3688" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/193_Recall-From-the-Dead.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/193_Recall-From-the-Dead-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3415" src="https://sweezen.github.io/wp-content/uploads/2022/02/194_Recall-From-the-Dead.png" alt="" class="wp-image-3415" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/194_Recall-From-the-Dead.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/194_Recall-From-the-Dead-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3689" src="https://sweezen.github.io/wp-content/uploads/2022/02/194_Sell-Your-Soul.png" alt="" class="wp-image-3689" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/194_Sell-Your-Soul.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/194_Sell-Your-Soul-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3414" src="https://sweezen.github.io/wp-content/uploads/2022/02/195_Sell-Your-Soul.png" alt="" class="wp-image-3414" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/195_Sell-Your-Soul.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/195_Sell-Your-Soul-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3691" src="https://sweezen.github.io/wp-content/uploads/2022/02/195_Serki-the-General-Zombie.png" alt="" class="wp-image-3691" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/195_Serki-the-General-Zombie.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/195_Serki-the-General-Zombie-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3416" src="https://sweezen.github.io/wp-content/uploads/2022/02/196_Serki-the-General-Zombie.png" alt="" class="wp-image-3416" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/196_Serki-the-General-Zombie.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/196_Serki-the-General-Zombie-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3690" src="https://sweezen.github.io/wp-content/uploads/2022/02/196_Shapeshifter-General.png" alt="" class="wp-image-3690" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/196_Shapeshifter-General.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/196_Shapeshifter-General-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3417" src="https://sweezen.github.io/wp-content/uploads/2022/02/197_Shapeshifter-General.png" alt="" class="wp-image-3417" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/197_Shapeshifter-General.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/197_Shapeshifter-General-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3692" src="https://sweezen.github.io/wp-content/uploads/2022/02/197_Shock-Wizard-Assistant.png" alt="" class="wp-image-3692" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/197_Shock-Wizard-Assistant.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/197_Shock-Wizard-Assistant-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3418" src="https://sweezen.github.io/wp-content/uploads/2022/02/198_Shock-Wizard-Assistant.png" alt="" class="wp-image-3418" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/198_Shock-Wizard-Assistant.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/198_Shock-Wizard-Assistant-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3693" src="https://sweezen.github.io/wp-content/uploads/2022/02/198_Sightless-Death-Messenger.png" alt="" class="wp-image-3693" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/198_Sightless-Death-Messenger.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/198_Sightless-Death-Messenger-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3419" src="https://sweezen.github.io/wp-content/uploads/2022/02/199_Sightless-Death-Messenger.png" alt="" class="wp-image-3419" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/199_Sightless-Death-Messenger.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/199_Sightless-Death-Messenger-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3694" src="https://sweezen.github.io/wp-content/uploads/2022/02/199_Sky-Caller.png" alt="" class="wp-image-3694" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/199_Sky-Caller.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/199_Sky-Caller-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3420" src="https://sweezen.github.io/wp-content/uploads/2022/02/200_Sky-Caller.png" alt="" class="wp-image-3420" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/200_Sky-Caller.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/200_Sky-Caller-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3695" src="https://sweezen.github.io/wp-content/uploads/2022/02/200_Sun-Light-Angel.png" alt="" class="wp-image-3695" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/200_Sun-Light-Angel.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/200_Sun-Light-Angel-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3421" src="https://sweezen.github.io/wp-content/uploads/2022/02/201_Sun-Light-Angel.png" alt="" class="wp-image-3421" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/201_Sun-Light-Angel.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/201_Sun-Light-Angel-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3696" src="https://sweezen.github.io/wp-content/uploads/2022/02/201_Synthesized-Hydra.png" alt="" class="wp-image-3696" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/201_Synthesized-Hydra.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/201_Synthesized-Hydra-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3422" src="https://sweezen.github.io/wp-content/uploads/2022/02/202_Synthesized-Hydra.png" alt="" class="wp-image-3422" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/202_Synthesized-Hydra.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/202_Synthesized-Hydra-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3697" src="https://sweezen.github.io/wp-content/uploads/2022/02/202_Tomb-Prowler.png" alt="" class="wp-image-3697" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/202_Tomb-Prowler.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/202_Tomb-Prowler-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3423" src="https://sweezen.github.io/wp-content/uploads/2022/02/203_Tomb-Prowler.png" alt="" class="wp-image-3423" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/203_Tomb-Prowler.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/203_Tomb-Prowler-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3698" src="https://sweezen.github.io/wp-content/uploads/2022/02/203_Tome-of-Bravour.png" alt="" class="wp-image-3698" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/203_Tome-of-Bravour.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/203_Tome-of-Bravour-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3424" src="https://sweezen.github.io/wp-content/uploads/2022/02/204_Tome-of-Bravour.png" alt="" class="wp-image-3424" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/204_Tome-of-Bravour.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/204_Tome-of-Bravour-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3699" src="https://sweezen.github.io/wp-content/uploads/2022/02/204_Tome-of-Corruption.png" alt="" class="wp-image-3699" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/204_Tome-of-Corruption.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/204_Tome-of-Corruption-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3425" src="https://sweezen.github.io/wp-content/uploads/2022/02/205_Tome-of-Corruption.png" alt="" class="wp-image-3425" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/205_Tome-of-Corruption.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/205_Tome-of-Corruption-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3700" src="https://sweezen.github.io/wp-content/uploads/2022/02/205_Tome-of-Destruction.png" alt="" class="wp-image-3700" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/205_Tome-of-Destruction.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/205_Tome-of-Destruction-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3426" src="https://sweezen.github.io/wp-content/uploads/2022/02/206_Tome-of-Destruction.png" alt="" class="wp-image-3426" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/206_Tome-of-Destruction.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/206_Tome-of-Destruction-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3701" src="https://sweezen.github.io/wp-content/uploads/2022/02/206_Tome-of-Preservation.png" alt="" class="wp-image-3701" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/206_Tome-of-Preservation.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/206_Tome-of-Preservation-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3427" src="https://sweezen.github.io/wp-content/uploads/2022/02/207_Tome-of-Preservation.png" alt="" class="wp-image-3427" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/207_Tome-of-Preservation.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/207_Tome-of-Preservation-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3702" src="https://sweezen.github.io/wp-content/uploads/2022/02/207_Tome-of-Protection.png" alt="" class="wp-image-3702" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/207_Tome-of-Protection.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/207_Tome-of-Protection-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3428" src="https://sweezen.github.io/wp-content/uploads/2022/02/208_Tome-of-Protection.png" alt="" class="wp-image-3428" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/208_Tome-of-Protection.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/208_Tome-of-Protection-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3703" src="https://sweezen.github.io/wp-content/uploads/2022/02/208_Transposed-Wizard.png" alt="" class="wp-image-3703" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/208_Transposed-Wizard.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/208_Transposed-Wizard-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3429" src="https://sweezen.github.io/wp-content/uploads/2022/02/209_Transposed-Wizard.png" alt="" class="wp-image-3429" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/209_Transposed-Wizard.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/209_Transposed-Wizard-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3705" src="https://sweezen.github.io/wp-content/uploads/2022/02/209_ValEl-Mediator-of-the-Realm.png" alt="" class="wp-image-3705" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/209_ValEl-Mediator-of-the-Realm.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/209_ValEl-Mediator-of-the-Realm-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3430" src="https://sweezen.github.io/wp-content/uploads/2022/02/210_Valiel-Corrupted-Light-Guardian.png" alt="" class="wp-image-3430" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/210_Valiel-Corrupted-Light-Guardian.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/210_Valiel-Corrupted-Light-Guardian-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3704" src="https://sweezen.github.io/wp-content/uploads/2022/02/210_Veteran-Angel.png" alt="" class="wp-image-3704" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/210_Veteran-Angel.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/210_Veteran-Angel-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3431" src="https://sweezen.github.io/wp-content/uploads/2022/02/211_Veteran-Angel.png" alt="" class="wp-image-3431" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/211_Veteran-Angel.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/211_Veteran-Angel-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3706" src="https://sweezen.github.io/wp-content/uploads/2022/02/211_VoonRi-the-Restless-Fighter.png" alt="" class="wp-image-3706" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/211_VoonRi-the-Restless-Fighter.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/211_VoonRi-the-Restless-Fighter-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3432" src="https://sweezen.github.io/wp-content/uploads/2022/02/212_VoonRi-the-Restless-Fighter.png" alt="" class="wp-image-3432" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/212_VoonRi-the-Restless-Fighter.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/212_VoonRi-the-Restless-Fighter-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3707" src="https://sweezen.github.io/wp-content/uploads/2022/02/212_Vrax-Eternal-General.png" alt="" class="wp-image-3707" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/212_Vrax-Eternal-General.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/212_Vrax-Eternal-General-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3433" src="https://sweezen.github.io/wp-content/uploads/2022/02/213_Vrax-Eternal-General.png" alt="" class="wp-image-3433" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/213_Vrax-Eternal-General.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/213_Vrax-Eternal-General-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3708" src="https://sweezen.github.io/wp-content/uploads/2022/02/213_Water-Warleader.png" alt="" class="wp-image-3708" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/213_Water-Warleader.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/213_Water-Warleader-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3434" src="https://sweezen.github.io/wp-content/uploads/2022/02/214_Water-Warleader.png" alt="" class="wp-image-3434" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/214_Water-Warleader.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/214_Water-Warleader-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3709" src="https://sweezen.github.io/wp-content/uploads/2022/02/214_Zayel-the-Broken-Angel.png" alt="" class="wp-image-3709" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/214_Zayel-the-Broken-Angel.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/214_Zayel-the-Broken-Angel-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3435" src="https://sweezen.github.io/wp-content/uploads/2022/02/215_Zayel-the-Broken-Angel.png" alt="" class="wp-image-3435" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/215_Zayel-the-Broken-Angel.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/215_Zayel-the-Broken-Angel-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3710" src="https://sweezen.github.io/wp-content/uploads/2022/02/215_Zombie-of-the-Hord.png" alt="" class="wp-image-3710" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/215_Zombie-of-the-Hord.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/215_Zombie-of-the-Hord-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3436" src="https://sweezen.github.io/wp-content/uploads/2022/02/216_Zombie-of-the-Hord.png" alt="" class="wp-image-3436" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/216_Zombie-of-the-Hord.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/216_Zombie-of-the-Hord-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3711" src="https://sweezen.github.io/wp-content/uploads/2022/02/216_Back-to-Nature.png" alt="" class="wp-image-3711" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/216_Back-to-Nature.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/216_Back-to-Nature-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3437" src="https://sweezen.github.io/wp-content/uploads/2022/02/217_Back-to-Nature.png" alt="" class="wp-image-3437" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/217_Back-to-Nature.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/217_Back-to-Nature-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3712" src="https://sweezen.github.io/wp-content/uploads/2022/02/217_Horror-Band.png" alt="" class="wp-image-3712" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/217_Horror-Band.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/217_Horror-Band-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3438" src="https://sweezen.github.io/wp-content/uploads/2022/02/218_Horror-Band.png" alt="" class="wp-image-3438" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/218_Horror-Band.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/218_Horror-Band-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3713" src="https://sweezen.github.io/wp-content/uploads/2022/02/218_Malediction-of-Justice.png" alt="" class="wp-image-3713" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/218_Malediction-of-Justice.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/218_Malediction-of-Justice-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3439" src="https://sweezen.github.io/wp-content/uploads/2022/02/219_Malediction-of-Justice.png" alt="" class="wp-image-3439" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/219_Malediction-of-Justice.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/219_Malediction-of-Justice-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3714" src="https://sweezen.github.io/wp-content/uploads/2022/02/219_Necromancy.png" alt="" class="wp-image-3714" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/219_Necromancy.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/219_Necromancy-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3440" src="https://sweezen.github.io/wp-content/uploads/2022/02/220_Outer-Wilds-Giant.png" alt="" class="wp-image-3440" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/220_Outer-Wilds-Giant.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/220_Outer-Wilds-Giant-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3715" src="https://sweezen.github.io/wp-content/uploads/2022/02/220_Outer-Wilds-Giant-1.png" alt="" class="wp-image-3715" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/220_Outer-Wilds-Giant-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/220_Outer-Wilds-Giant-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3441" src="https://sweezen.github.io/wp-content/uploads/2022/02/221_Refuse-to-Surrender.png" alt="" class="wp-image-3441" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/221_Refuse-to-Surrender.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/221_Refuse-to-Surrender-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3717" src="https://sweezen.github.io/wp-content/uploads/2022/02/221_Refuse-to-Surrender-1.png" alt="" class="wp-image-3717" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/221_Refuse-to-Surrender-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/221_Refuse-to-Surrender-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3442" src="https://sweezen.github.io/wp-content/uploads/2022/02/222_Repel-the-Threats.png" alt="" class="wp-image-3442" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/222_Repel-the-Threats.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/222_Repel-the-Threats-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3716" src="https://sweezen.github.io/wp-content/uploads/2022/02/222_Repel-the-Threats-1.png" alt="" class="wp-image-3716" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/222_Repel-the-Threats-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/222_Repel-the-Threats-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3443" src="https://sweezen.github.io/wp-content/uploads/2022/02/223_Undersea-Hydra.png" alt="" class="wp-image-3443" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/223_Undersea-Hydra.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/223_Undersea-Hydra-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3718" src="https://sweezen.github.io/wp-content/uploads/2022/02/223_Undersea-Hydra-1.png" alt="" class="wp-image-3718" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/223_Undersea-Hydra-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/223_Undersea-Hydra-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3444" src="https://sweezen.github.io/wp-content/uploads/2022/02/224_Cultural-Monolith.png" alt="" class="wp-image-3444" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/224_Cultural-Monolith.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/224_Cultural-Monolith-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3719" src="https://sweezen.github.io/wp-content/uploads/2022/02/224_Cultural-Monolith-1.png" alt="" class="wp-image-3719" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/224_Cultural-Monolith-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/224_Cultural-Monolith-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3445" src="https://sweezen.github.io/wp-content/uploads/2022/02/225_Elders-Coin.png" alt="" class="wp-image-3445" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/225_Elders-Coin.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/225_Elders-Coin-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3720" src="https://sweezen.github.io/wp-content/uploads/2022/02/225_Elders-Coin-1.png" alt="" class="wp-image-3720" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/225_Elders-Coin-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/225_Elders-Coin-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3446" src="https://sweezen.github.io/wp-content/uploads/2022/02/226_Garrison-Chief-of-Vulnir.png" alt="" class="wp-image-3446" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/226_Garrison-Chief-of-Vulnir.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/226_Garrison-Chief-of-Vulnir-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3721" src="https://sweezen.github.io/wp-content/uploads/2022/02/226_Garrison-Chief-of-Vulnir-1.png" alt="" class="wp-image-3721" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/226_Garrison-Chief-of-Vulnir-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/226_Garrison-Chief-of-Vulnir-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3447" src="https://sweezen.github.io/wp-content/uploads/2022/02/227_Gear-Robot.png" alt="" class="wp-image-3447" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/227_Gear-Robot.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/227_Gear-Robot-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3722" src="https://sweezen.github.io/wp-content/uploads/2022/02/227_Gear-Robot-1.png" alt="" class="wp-image-3722" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/227_Gear-Robot-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/227_Gear-Robot-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3448" src="https://sweezen.github.io/wp-content/uploads/2022/02/228_Mana-Stone.png" alt="" class="wp-image-3448" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/228_Mana-Stone.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/228_Mana-Stone-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3723" src="https://sweezen.github.io/wp-content/uploads/2022/02/228_Mana-Stone-1.png" alt="" class="wp-image-3723" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/228_Mana-Stone-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/228_Mana-Stone-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3450" src="https://sweezen.github.io/wp-content/uploads/2022/02/229_Old-Wall.png" alt="" class="wp-image-3450" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/229_Old-Wall.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/229_Old-Wall-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3724" src="https://sweezen.github.io/wp-content/uploads/2022/02/229_Old-Wall-1.png" alt="" class="wp-image-3724" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/229_Old-Wall-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/229_Old-Wall-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3449" src="https://sweezen.github.io/wp-content/uploads/2022/02/230_Reusable-Axe-1.png" alt="" class="wp-image-3449" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/230_Reusable-Axe-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/230_Reusable-Axe-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3725" src="https://sweezen.github.io/wp-content/uploads/2022/02/230_Reusable-Axe-2.png" alt="" class="wp-image-3725" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/230_Reusable-Axe-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/230_Reusable-Axe-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3451" src="https://sweezen.github.io/wp-content/uploads/2022/02/231_Sacrificed-Cogwork-1.png" alt="" class="wp-image-3451" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/231_Sacrificed-Cogwork-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/231_Sacrificed-Cogwork-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3726" src="https://sweezen.github.io/wp-content/uploads/2022/02/231_Sacrificed-Cogwork-2.png" alt="" class="wp-image-3726" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/231_Sacrificed-Cogwork-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/231_Sacrificed-Cogwork-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3452" src="https://sweezen.github.io/wp-content/uploads/2022/02/232_Servant-Robot-1.png" alt="" class="wp-image-3452" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/232_Servant-Robot-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/232_Servant-Robot-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3727" src="https://sweezen.github.io/wp-content/uploads/2022/02/232_Servant-Robot-2.png" alt="" class="wp-image-3727" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/232_Servant-Robot-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/232_Servant-Robot-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3453" src="https://sweezen.github.io/wp-content/uploads/2022/02/233_Time-Warp-1.png" alt="" class="wp-image-3453" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/233_Time-Warp-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/233_Time-Warp-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3728" src="https://sweezen.github.io/wp-content/uploads/2022/02/233_Time-Warp-2.png" alt="" class="wp-image-3728" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/233_Time-Warp-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/233_Time-Warp-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3454" src="https://sweezen.github.io/wp-content/uploads/2022/02/234_Twins-Golems-1.png" alt="" class="wp-image-3454" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/234_Twins-Golems-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/234_Twins-Golems-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3729" src="https://sweezen.github.io/wp-content/uploads/2022/02/234_Twins-Golems-2.png" alt="" class="wp-image-3729" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/234_Twins-Golems-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/234_Twins-Golems-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3455" src="https://sweezen.github.io/wp-content/uploads/2022/02/235_Denval-Citadel-1.png" alt="" class="wp-image-3455" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/235_Denval-Citadel-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/235_Denval-Citadel-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3730" src="https://sweezen.github.io/wp-content/uploads/2022/02/235_Denval-Citadel-2.png" alt="" class="wp-image-3730" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/235_Denval-Citadel-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/235_Denval-Citadel-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3456" src="https://sweezen.github.io/wp-content/uploads/2022/02/236_Elders-Desert-1.png" alt="" class="wp-image-3456" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/236_Elders-Desert-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/236_Elders-Desert-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3731" src="https://sweezen.github.io/wp-content/uploads/2022/02/236_Elders-Desert-2.png" alt="" class="wp-image-3731" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/236_Elders-Desert-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/236_Elders-Desert-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3457" src="https://sweezen.github.io/wp-content/uploads/2022/02/237_Elders-Forest-1.png" alt="" class="wp-image-3457" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/237_Elders-Forest-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/237_Elders-Forest-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3732" src="https://sweezen.github.io/wp-content/uploads/2022/02/237_Elders-Forest-2.png" alt="" class="wp-image-3732" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/237_Elders-Forest-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/237_Elders-Forest-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3458" src="https://sweezen.github.io/wp-content/uploads/2022/02/238_Glowing-Forest-1.png" alt="" class="wp-image-3458" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/238_Glowing-Forest-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/238_Glowing-Forest-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3733" src="https://sweezen.github.io/wp-content/uploads/2022/02/238_Glowing-Forest-2.png" alt="" class="wp-image-3733" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/238_Glowing-Forest-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/238_Glowing-Forest-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3459" src="https://sweezen.github.io/wp-content/uploads/2022/02/239_Growth-Fountain-1.png" alt="" class="wp-image-3459" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/239_Growth-Fountain-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/239_Growth-Fountain-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3734" src="https://sweezen.github.io/wp-content/uploads/2022/02/239_Growth-Fountain-2.png" alt="" class="wp-image-3734" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/239_Growth-Fountain-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/239_Growth-Fountain-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3460" src="https://sweezen.github.io/wp-content/uploads/2022/02/240_High-Peak-Valley-1.png" alt="" class="wp-image-3460" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/240_High-Peak-Valley-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/240_High-Peak-Valley-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3735" src="https://sweezen.github.io/wp-content/uploads/2022/02/240_High-Peak-Valley-2.png" alt="" class="wp-image-3735" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/240_High-Peak-Valley-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/240_High-Peak-Valley-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3461" src="https://sweezen.github.io/wp-content/uploads/2022/02/241_Ignited-Land-1.png" alt="" class="wp-image-3461" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/241_Ignited-Land-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/241_Ignited-Land-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3737" src="https://sweezen.github.io/wp-content/uploads/2022/02/241_Ignited-Land-2.png" alt="" class="wp-image-3737" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/241_Ignited-Land-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/241_Ignited-Land-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3462" src="https://sweezen.github.io/wp-content/uploads/2022/02/242_Misty-Cliffs-1.png" alt="" class="wp-image-3462" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/242_Misty-Cliffs-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/242_Misty-Cliffs-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3736" src="https://sweezen.github.io/wp-content/uploads/2022/02/242_Misty-Cliffs-2.png" alt="" class="wp-image-3736" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/242_Misty-Cliffs-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/242_Misty-Cliffs-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3463" src="https://sweezen.github.io/wp-content/uploads/2022/02/243_Mysterious-Bay-1.png" alt="" class="wp-image-3463" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/243_Mysterious-Bay-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/243_Mysterious-Bay-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3738" src="https://sweezen.github.io/wp-content/uploads/2022/02/243_Mysterious-Bay-2.png" alt="" class="wp-image-3738" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/243_Mysterious-Bay-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/243_Mysterious-Bay-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3465" src="https://sweezen.github.io/wp-content/uploads/2022/02/244_Peaceful-Forest-1.png" alt="" class="wp-image-3465" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/244_Peaceful-Forest-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/244_Peaceful-Forest-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3739" src="https://sweezen.github.io/wp-content/uploads/2022/02/244_Peaceful-Forest-2.png" alt="" class="wp-image-3739" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/244_Peaceful-Forest-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/244_Peaceful-Forest-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3464" src="https://sweezen.github.io/wp-content/uploads/2022/02/245_Plain-of-Chaos-1.png" alt="" class="wp-image-3464" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/245_Plain-of-Chaos-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/245_Plain-of-Chaos-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3740" src="https://sweezen.github.io/wp-content/uploads/2022/02/245_Plain-of-Chaos-2.png" alt="" class="wp-image-3740" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/245_Plain-of-Chaos-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/245_Plain-of-Chaos-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3466" src="https://sweezen.github.io/wp-content/uploads/2022/02/246_Raging-Storm-1.png" alt="" class="wp-image-3466" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/246_Raging-Storm-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/246_Raging-Storm-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3741" src="https://sweezen.github.io/wp-content/uploads/2022/02/246_Raging-Storm-2.png" alt="" class="wp-image-3741" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/246_Raging-Storm-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/246_Raging-Storm-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3467" src="https://sweezen.github.io/wp-content/uploads/2022/02/247_Red-Dawn-Valley-1.png" alt="" class="wp-image-3467" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/247_Red-Dawn-Valley-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/247_Red-Dawn-Valley-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3742" src="https://sweezen.github.io/wp-content/uploads/2022/02/247_Red-Dawn-Valley-2.png" alt="" class="wp-image-3742" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/247_Red-Dawn-Valley-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/247_Red-Dawn-Valley-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3468" src="https://sweezen.github.io/wp-content/uploads/2022/02/248_Shadowland-Mountains-1.png" alt="" class="wp-image-3468" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/248_Shadowland-Mountains-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/248_Shadowland-Mountains-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3743" src="https://sweezen.github.io/wp-content/uploads/2022/02/248_Shadowland-Mountains-2.png" alt="" class="wp-image-3743" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/248_Shadowland-Mountains-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/248_Shadowland-Mountains-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3469" src="https://sweezen.github.io/wp-content/uploads/2022/02/249_Skylight-Connection-1.png" alt="" class="wp-image-3469" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/249_Skylight-Connection-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/249_Skylight-Connection-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3744" src="https://sweezen.github.io/wp-content/uploads/2022/02/249_Skylight-Connection-2.png" alt="" class="wp-image-3744" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/249_Skylight-Connection-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/249_Skylight-Connection-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3471" src="https://sweezen.github.io/wp-content/uploads/2022/02/250_Skylight-Halt-1.png" alt="" class="wp-image-3471" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/250_Skylight-Halt-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/250_Skylight-Halt-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3745" src="https://sweezen.github.io/wp-content/uploads/2022/02/250_Skylight-Halt-2.png" alt="" class="wp-image-3745" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/250_Skylight-Halt-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/250_Skylight-Halt-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3470" src="https://sweezen.github.io/wp-content/uploads/2022/02/251_Underneath-World-1.png" alt="" class="wp-image-3470" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/251_Underneath-World-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/251_Underneath-World-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3746" src="https://sweezen.github.io/wp-content/uploads/2022/02/251_Underneath-World-2.png" alt="" class="wp-image-3746" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/251_Underneath-World-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/251_Underneath-World-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3472" src="https://sweezen.github.io/wp-content/uploads/2022/02/252_Wild-Bog-1.png" alt="" class="wp-image-3472" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/252_Wild-Bog-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/252_Wild-Bog-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3747" src="https://sweezen.github.io/wp-content/uploads/2022/02/252_Wild-Bog-2.png" alt="" class="wp-image-3747" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/252_Wild-Bog-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/252_Wild-Bog-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3473" src="https://sweezen.github.io/wp-content/uploads/2022/02/253_Plains-1.png" alt="" class="wp-image-3473" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/253_Plains-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/253_Plains-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3748" src="https://sweezen.github.io/wp-content/uploads/2022/02/253_Plains-2.png" alt="" class="wp-image-3748" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/253_Plains-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/253_Plains-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3474" src="https://sweezen.github.io/wp-content/uploads/2022/02/254_Plains-1.png" alt="" class="wp-image-3474" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/254_Plains-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/254_Plains-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3749" src="https://sweezen.github.io/wp-content/uploads/2022/02/254_Plains-2.png" alt="" class="wp-image-3749" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/254_Plains-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/254_Plains-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3475" src="https://sweezen.github.io/wp-content/uploads/2022/02/255_Plains-1.png" alt="" class="wp-image-3475" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/255_Plains-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/255_Plains-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3750" src="https://sweezen.github.io/wp-content/uploads/2022/02/255_Plains-2.png" alt="" class="wp-image-3750" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/255_Plains-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/255_Plains-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3476" src="https://sweezen.github.io/wp-content/uploads/2022/02/256_Plains-1.png" alt="" class="wp-image-3476" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/256_Plains-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/256_Plains-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3751" src="https://sweezen.github.io/wp-content/uploads/2022/02/256_Plains-2.png" alt="" class="wp-image-3751" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/256_Plains-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/256_Plains-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3478" src="https://sweezen.github.io/wp-content/uploads/2022/02/257_Island-1.png" alt="" class="wp-image-3478" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/257_Island-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/257_Island-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3752" src="https://sweezen.github.io/wp-content/uploads/2022/02/257_Island-2.png" alt="" class="wp-image-3752" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/257_Island-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/257_Island-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3477" src="https://sweezen.github.io/wp-content/uploads/2022/02/258_Island-1.png" alt="" class="wp-image-3477" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/258_Island-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/258_Island-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3753" src="https://sweezen.github.io/wp-content/uploads/2022/02/258_Island-2.png" alt="" class="wp-image-3753" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/258_Island-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/258_Island-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3479" src="https://sweezen.github.io/wp-content/uploads/2022/02/259_Island-1.png" alt="" class="wp-image-3479" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/259_Island-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/259_Island-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3754" src="https://sweezen.github.io/wp-content/uploads/2022/02/259_Island-2.png" alt="" class="wp-image-3754" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/259_Island-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/259_Island-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3480" src="https://sweezen.github.io/wp-content/uploads/2022/02/260_Island-1.png" alt="" class="wp-image-3480" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/260_Island-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/260_Island-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3755" src="https://sweezen.github.io/wp-content/uploads/2022/02/260_Island-2.png" alt="" class="wp-image-3755" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/260_Island-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/260_Island-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3481" src="https://sweezen.github.io/wp-content/uploads/2022/02/261_Swamp-1.png" alt="" class="wp-image-3481" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/261_Swamp-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/261_Swamp-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3756" src="https://sweezen.github.io/wp-content/uploads/2022/02/261_Swamp-2.png" alt="" class="wp-image-3756" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/261_Swamp-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/261_Swamp-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3482" src="https://sweezen.github.io/wp-content/uploads/2022/02/262_Swamp-1.png" alt="" class="wp-image-3482" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/262_Swamp-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/262_Swamp-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3758" src="https://sweezen.github.io/wp-content/uploads/2022/02/262_Swamp-2.png" alt="" class="wp-image-3758" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/262_Swamp-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/262_Swamp-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3484" src="https://sweezen.github.io/wp-content/uploads/2022/02/263_Swamp-1.png" alt="" class="wp-image-3484" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/263_Swamp-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/263_Swamp-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3757" src="https://sweezen.github.io/wp-content/uploads/2022/02/263_Swamp-2.png" alt="" class="wp-image-3757" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/263_Swamp-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/263_Swamp-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3483" src="https://sweezen.github.io/wp-content/uploads/2022/02/264_Swamp-1-1.png" alt="" class="wp-image-3483" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/264_Swamp-1-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/264_Swamp-1-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3759" src="https://sweezen.github.io/wp-content/uploads/2022/02/264_Swamp-1-2.png" alt="" class="wp-image-3759" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/264_Swamp-1-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/264_Swamp-1-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3485" src="https://sweezen.github.io/wp-content/uploads/2022/02/265_Mountain-1.png" alt="" class="wp-image-3485" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/265_Mountain-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/265_Mountain-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3760" src="https://sweezen.github.io/wp-content/uploads/2022/02/265_Mountain-2.png" alt="" class="wp-image-3760" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/265_Mountain-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/265_Mountain-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3486" src="https://sweezen.github.io/wp-content/uploads/2022/02/266_Mountain-1.png" alt="" class="wp-image-3486" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/266_Mountain-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/266_Mountain-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3761" src="https://sweezen.github.io/wp-content/uploads/2022/02/266_Mountain-2.png" alt="" class="wp-image-3761" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/266_Mountain-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/266_Mountain-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3487" src="https://sweezen.github.io/wp-content/uploads/2022/02/267_Mountain-1.png" alt="" class="wp-image-3487" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/267_Mountain-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/267_Mountain-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3762" src="https://sweezen.github.io/wp-content/uploads/2022/02/267_Mountain-2.png" alt="" class="wp-image-3762" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/267_Mountain-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/267_Mountain-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3488" src="https://sweezen.github.io/wp-content/uploads/2022/02/268_Mountain-1.png" alt="" class="wp-image-3488" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/268_Mountain-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/268_Mountain-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3763" src="https://sweezen.github.io/wp-content/uploads/2022/02/268_Mountain-2.png" alt="" class="wp-image-3763" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/268_Mountain-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/268_Mountain-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3489" src="https://sweezen.github.io/wp-content/uploads/2022/02/269_Forest-1.png" alt="" class="wp-image-3489" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/269_Forest-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/269_Forest-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3764" src="https://sweezen.github.io/wp-content/uploads/2022/02/269_Forest-2.png" alt="" class="wp-image-3764" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/269_Forest-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/269_Forest-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3490" src="https://sweezen.github.io/wp-content/uploads/2022/02/270_Forest-1.png" alt="" class="wp-image-3490" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/270_Forest-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/270_Forest-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3765" src="https://sweezen.github.io/wp-content/uploads/2022/02/270_Forest-2.png" alt="" class="wp-image-3765" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/270_Forest-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/270_Forest-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3491" src="https://sweezen.github.io/wp-content/uploads/2022/02/271_Forest-1.png" alt="" class="wp-image-3491" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/271_Forest-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/271_Forest-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3766" src="https://sweezen.github.io/wp-content/uploads/2022/02/271_Forest-2.png" alt="" class="wp-image-3766" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/271_Forest-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/271_Forest-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3492" src="https://sweezen.github.io/wp-content/uploads/2022/02/272_Forest-1.png" alt="" class="wp-image-3492" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/272_Forest-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/272_Forest-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3767" src="https://sweezen.github.io/wp-content/uploads/2022/02/272_Forest-2.png" alt="" class="wp-image-3767" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/272_Forest-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/272_Forest-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="375" height="523" data-id="3493" src="https://sweezen.github.io/wp-content/uploads/2022/02/273_Exodia-1.png" alt="" class="wp-image-3493" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/273_Exodia-1.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/273_Exodia-1-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="375" height="523" data-id="3768" src="https://sweezen.github.io/wp-content/uploads/2022/02/273_Exodia-2.png" alt="" class="wp-image-3768" srcset="https://sweezen.github.io/wp-content/uploads/2022/02/273_Exodia-2.png 375w, https://sweezen.github.io/wp-content/uploads/2022/02/273_Exodia-2-215x300.png 215w" sizes="(max-width: 375px) 100vw, 375px"></figure>
 </figure>
 
 
